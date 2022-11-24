@@ -12,7 +12,46 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage of GDP",
+                "MISK per capita",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Industry category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "C. Manufacturing",
+                "C: 10-12 Manufacture of food products, beverages and tobacco products",
+                "C: 10-12 Thereof Fish processing",
+                "C: 13-15 Manufacture of textiles, wearing apparel and leather products",
+                "C: 16-17 Manufacture of wood and paper products",
+                "C: 18 Printing and reproduction of recorded media",
+                "C: 19 Manufacture of coke and refined petroleum products",
+                "C: 20-21 Manufacture of chemicals, chemical products, basic pharmaceutical products and pharmaceutical preparations",
+                "C: 22 Manufacture of rubber and plastic products",
+                "C: 23 Manufacture of other non-metallic mineral products",
+                "C: 24 Manufacture of basic metals",
+                "C: 25 Manufacture of fabricated metal products, except machinery and equipment",
+                "C: 26 Manufacture of computer, electronic and optical products",
+                "C: 27 Manufacture of electrical equipment",
+                "C: 28 Manufacture of machinery and equipment n.e.c.",
+                "C: 29 Manufacture of motor vehicles, trailers and semi-trailers",
+                "C: 30 Manufacture of other transport equipment",
+                "C: 31-32 Manufacture of furniture; other manufacturing",
+                "C: 33 Repair and installation of machinery and equipment",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

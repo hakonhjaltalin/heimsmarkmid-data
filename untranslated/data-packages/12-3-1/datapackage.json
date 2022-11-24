@@ -12,7 +12,67 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Waste type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Edible food and inedible waste",
+                "Edible food",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Waste origin",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Household",
+                "Supply chain",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture (01)",
+                "Wholesale (46)",
+                "Retail (47)",
+                "Accommodation (55)",
+                "Food and beverage service (56)",
+                "Education (P)",
+                "Meat processing (10.1)",
+                "Processing of fruit and vegetables (10.3)",
+                "Manufacture of oil and fat (10.4)",
+                "Manufacture of bakery and farinaceous products (10.7)",
+                "Health institutions (86)",
+                "Nursing homes (87)",
+                "Meat processing (03)",
+                "Manufacture of dairy products (10.5)",
+                "Manufacture of other food products (10.8)",
+                "Manufacture of beverages (11)",
+                "Wholesale and retail (46 and 47)",
+                "Education (85)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tonnes",
+                "Kg per person",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

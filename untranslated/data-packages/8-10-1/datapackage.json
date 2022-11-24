@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Service",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Branches of commercial banks",
+                "Number of Automated Teller Machines (ATMs)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

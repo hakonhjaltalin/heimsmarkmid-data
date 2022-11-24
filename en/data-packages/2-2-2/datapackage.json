@@ -12,8 +12,43 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Region",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Capital Region",
+                ""
+              ]
+            },
+            "title": "Region"
+          },
+          {
+            "name": "Condition",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Overweight",
+                "Obese",
+                ""
+              ]
+            },
+            "title": "Condition"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Gender"
           },
           {
             "name": "Value",

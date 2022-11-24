@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lakes and reservoirs",
+                "Rivers and Estuaries",
+                "Wetlands",
+                ""
+              ]
+            },
+            "title": "Category"
           },
           {
             "name": "Value",

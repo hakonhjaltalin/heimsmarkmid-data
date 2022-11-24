@@ -12,8 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Index",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Reading attainment at age 9",
+                "Reading attainment at age 15",
+                "Math attainment at age 15",
+                "Participation rate in formal education",
+                "Participation rate in  non-formal education",
+                ""
+              ]
+            },
+            "title": "Index"
           },
           {
             "name": "Value",

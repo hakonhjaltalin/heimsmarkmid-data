@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "string"
+          },
+          {
+            "name": "Severity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Moderate or Severe",
+                "Severe only",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

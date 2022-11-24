@@ -12,8 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Type of treatment",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Recovery",
+                "Disposal",
+                ""
+              ]
+            },
+            "title": "Type of treatment"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tonne per capita",
+                "Percentage of all hazardous waste",
+                ""
+              ]
+            },
+            "title": "Units"
           },
           {
             "name": "Value",

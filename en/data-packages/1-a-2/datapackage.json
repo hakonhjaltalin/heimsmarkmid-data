@@ -12,8 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percentage (%) of national budget",
+                "Percentage (%) of Gross Domestic Product (GDP)",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Area of Spending Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Health",
+                "Social Protection",
+                "Education",
+                ""
+              ]
+            },
+            "title": "Area of Spending Category"
           },
           {
             "name": "Value",

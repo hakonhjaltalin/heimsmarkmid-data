@@ -12,7 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Age group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18-25",
+                "26-35",
+                "36-45",
+                "46-55",
+                "56-65",
+                "66-75",
+                "76+",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of violence",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Physical violence",
+                "Sexual violence",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

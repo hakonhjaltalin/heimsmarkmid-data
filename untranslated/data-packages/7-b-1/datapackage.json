@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Energy Source",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hydro",
+                "Geothermal",
+                "Wind",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

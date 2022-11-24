@@ -12,7 +12,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Level of government",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Parliment",
+                "Local government",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

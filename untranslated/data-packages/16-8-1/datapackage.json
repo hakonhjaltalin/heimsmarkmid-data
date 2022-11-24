@@ -12,7 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Organization",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "World Trade Organization",
+                "International Bank for Reconstruction and Development",
+                "UN General Assembly",
+                "International Monetary Fund",
+                "International Finanace Corporation",
+                "UN Econonomic and Social Council",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

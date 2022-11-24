@@ -12,7 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Disease",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Cancer",
+                "Diabetes",
+                "Cardiovascular disease",
+                "Chronic respiratory disease",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

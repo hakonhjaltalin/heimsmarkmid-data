@@ -12,12 +12,51 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "Fatal/non-fatal",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Fatal",
+                "non-fatal",
+                ""
+              ]
+            },
+            "title": "Fatal/non-fatal"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Both",
+                "Male",
+                "Female",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Nationality",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "All",
+                "Icelandic",
+                "Foreign",
+                ""
+              ]
+            },
+            "title": "Nationality"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

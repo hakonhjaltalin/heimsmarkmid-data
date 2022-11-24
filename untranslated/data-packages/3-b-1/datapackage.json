@@ -12,11 +12,47 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Vaccine",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "DTP, Polio, HIB",
+                "DTP revaccination at 4 years old",
+                "DTP & Polio revaccination at 14 years old",
+                "Pneumococcal Vaccine",
+                "Meningococcal C vaccine",
+                "MMR",
+                "MMR revaccination",
+                "HPV-1",
+                "HPV-2",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Vaccine - participation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "% Covered at 3 months old",
+                "% Covered at 5 months old",
+                "% Covered at 12 months old",
+                "% Covered at 4 years old",
+                "% Covered at 14 years old",
+                "% Covered at 6 months old",
+                "% Covered at 8 months old",
+                "% Covered at 18 months old",
+                "% Covered at 12 years old",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

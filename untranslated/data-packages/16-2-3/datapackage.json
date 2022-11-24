@@ -8,11 +8,52 @@
       "format": "csv",
       "hashing": "md5",
       "encoding": "utf-8",
+      "dialect": {
+        "quoteChar": "\""
+      },
       "schema": {
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Gender",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Male",
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "'20'",
+                "'19'",
+                "'18'",
+                "'17'",
+                "'16'",
+                "'15'",
+                "'14'",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Perpetrator",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Adult",
+                "Same age",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

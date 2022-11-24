@@ -12,8 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PM2.5",
+                "PM10",
+                ""
+              ]
+            },
+            "title": "Group"
           },
           {
             "name": "Value",

@@ -12,7 +12,31 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Capacity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Food safety",
+                "Coordination",
+                "Zoonosis",
+                "Response",
+                "Risk communication",
+                "Points of entry",
+                "Legislation",
+                "Radionuclear",
+                "Surveillance",
+                "Laboratory",
+                "Chemical",
+                "Preparedness",
+                "Human resources",
+                "National Health Emergency Framework",
+                "Health Service Provision",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

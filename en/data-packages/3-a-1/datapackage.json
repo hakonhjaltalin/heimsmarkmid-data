@@ -12,8 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Never smoked",
+                "Quit smoking",
+                "Smoke less frequently than daily",
+                "Smoke daily",
+                ""
+              ]
+            },
+            "title": "Group"
           },
           {
             "name": "Value",

@@ -12,11 +12,39 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Age-group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16-24",
+                "25-34",
+                "35-44",
+                "45-54",
+                "55-64",
+                "65-74",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Skill",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Information skills",
+                "Communications skills",
+                "Problem solving skills",
+                "Software",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

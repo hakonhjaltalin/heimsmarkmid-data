@@ -12,7 +12,20 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Convention",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Basel",
+                "Minimata",
+                "Montreal Protocol",
+                "Stockholm Convention",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

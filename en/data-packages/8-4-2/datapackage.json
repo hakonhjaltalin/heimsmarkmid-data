@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Category",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Domestic Material Consumption (DMC) [Kilotonnes]",
+                "DMC per capita [kilotonnes per person]",
+                "DMC per GDP [kilotonnes per MISK]",
+                ""
+              ]
+            },
+            "title": "Category"
           },
           {
             "name": "Value",

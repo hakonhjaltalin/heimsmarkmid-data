@@ -12,8 +12,34 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Living condition",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary homeless",
+                "Secondary homeless",
+                "Poor housing conditions",
+                "Overcrowding",
+                ""
+              ]
+            },
+            "title": "Living condition"
           },
           {
             "name": "Value",

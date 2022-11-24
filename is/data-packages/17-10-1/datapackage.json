@@ -12,8 +12,37 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Type of Product",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Arms",
+                "Clothing",
+                "Industrial products",
+                "Textiles",
+                "All products",
+                "Agricultural products",
+                "Oil",
+                ""
+              ]
+            },
+            "title": "Type of Product"
+          },
+          {
+            "name": "Status",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Most-favoured-nation status",
+                "Preferential Status",
+                ""
+              ]
+            },
+            "title": "Status"
           },
           {
             "name": "Value",

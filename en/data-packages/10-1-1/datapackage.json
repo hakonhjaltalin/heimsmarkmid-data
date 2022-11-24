@@ -12,8 +12,40 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
+          },
+          {
+            "name": "Income/expenditure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Expenditure",
+                "Income",
+                ""
+              ]
+            },
+            "title": "Income/expenditure"
+          },
+          {
+            "name": "Income group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "1st quartile",
+                "2nd quartile",
+                "3rd quartile",
+                "4th quartile",
+                "Total",
+                "1st quantile",
+                "2nd quantile",
+                "3rd quantile",
+                "4th quantile",
+                "5th quantile",
+                ""
+              ]
+            },
+            "title": "Income group"
           },
           {
             "name": "Value",

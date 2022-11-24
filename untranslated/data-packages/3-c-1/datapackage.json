@@ -12,7 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Type of Occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Biomedical scientists",
+                "Dental hygienists",
+                "Dental Surgery Assistants",
+                "Dentists",
+                "Environmental health officers",
+                "Exam. pharmacists",
+                "Midwives",
+                "Nurses",
+                "Occupational therapists",
+                "Pharmacists",
+                "Pharmacy technicians",
+                "Physicians and surgeons",
+                "Physiotherapists",
+                "Practical nurses",
+                "Proprietary pharmacists",
+                "Radiographers",
+                "Social workers",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

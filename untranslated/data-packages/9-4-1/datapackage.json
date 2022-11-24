@@ -12,7 +12,35 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Sector",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A - Agriculture, forestry and fishing",
+                "B - Mining and quarrying",
+                "C - Manufacturing",
+                "D - Electricity and power generation",
+                "E - Water collection, waste management and remediation activities",
+                "F - Construction",
+                "G - Trade and repair of mechanical equipment",
+                "H - Tranportation and storage",
+                "I - Accommodation and food services activities",
+                "J - Information and communication",
+                "K - Financial and insurance activities",
+                "M - Professional, scientific and technical activities",
+                "N - Administrative and support service activities",
+                "O - Public administration and defence; compulsory social security",
+                "P - Education",
+                "Q - Human health and social work activities",
+                "R - Arts, entertainment and recreation",
+                "S - Other services activities",
+                "U - Activities of extraterritorial organisations and bodies",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

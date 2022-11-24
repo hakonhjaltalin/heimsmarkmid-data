@@ -12,8 +12,21 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "Group",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Enterprises",
+                "Tertiary education institutions",
+                "Government institutions (excluding universities)",
+                ""
+              ]
+            },
+            "title": "Group"
           },
           {
             "name": "Value",

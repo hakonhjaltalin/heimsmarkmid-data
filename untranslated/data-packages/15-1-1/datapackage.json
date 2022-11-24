@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Type",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Forest > 5m",
+                "Forest < 5m",
+                "Total Forest cover",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
