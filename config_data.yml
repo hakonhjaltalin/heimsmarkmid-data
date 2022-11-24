@@ -42,7 +42,7 @@ inputs:
   - class: InputCsvData
     # This describes the data files, relative to the "src_dir" indicated above.
     path_pattern: data/*-*.csv
-  - class: InputYamlMeta
+  - class: InputYamlMdMeta
     path_pattern: indicator-config/*-*.yml
     git: false
   - class: InputYamlMeta
