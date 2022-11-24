@@ -276,7 +276,7 @@
           }
         ]
       },
-      "title": "Proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism"
+      "title": "Hlutfall íbúa sem hafa upplifað ágreining á síðustu tveimur árum og hafa nýtt sér formleg eða óformleg úrlausnarferli, eftir tegund úrlausnarferlis"
     },
     {
       "path": "3-3-1/data.csv",
@@ -2686,7 +2686,7 @@
           }
         ]
       },
-      "title": "Statistical capacity indicator for Sustainable Development Goal monitoring"
+      "title": "Mælikvarði á tölfræðilega getu til að mæla árangur í innleiðingu heimsmarkmiðanna"
     },
     {
       "path": "6-3-2/data.csv",
@@ -5433,7 +5433,7 @@
           }
         ]
       },
-      "title": "Pro-poor public social spending"
+      "title": "Félagsaðstoð hins opinbera sem fátækir njóta umfram aðra."
     },
     {
       "path": "2-1-1/data.csv",

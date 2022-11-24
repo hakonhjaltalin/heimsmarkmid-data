@@ -1,0 +1,64 @@
+Value,Disaggregation combinations using this value,Number of indicators
+"A - Agriculture, forestry and fishing",2,2
+Accommodation (55),2,1
+Accomodation and food services (I),2,1
+Agriculture (01),2,1
+B - Mining and quarrying,2,2
+C - Manufacturing,2,2
+Clerks (4),2,1
+Craft and related workers (7),2,1
+D - Electricity and power generation,2,2
+"E - Water collection, waste management and remediation activities",2,2
+Education (85),2,1
+Education (P),4,2
+"Electricity, gas, steam, and air conditioning supply (D)",2,1
+Elementary occupations (9),2,1
+F - Construction,2,2
+Financial and insurance activities (K),2,1
+Food and beverage service (56),2,1
+Full-time,2,1
+G - Trade and repair of mechanical equipment,2,2
+"General, machine and specialized workers",2,1
+H - Tranportation and storage,2,2
+Health institutions (86),2,1
+Households,1,1
+Human health and social work activities (Q),2,1
+I - Accommodation and food services activities,2,2
+Information and communication (J),2,1
+J - Information and communication,2,2
+K - Financial and insurance activities,2,2
+"M - Professional, scientific and technical activities",2,2
+Managers (1),2,1
+Manufacture of bakery and farinaceous products (10.7),2,1
+Manufacture of beverages (11),2,1
+Manufacture of dairy products (10.5),2,1
+Manufacture of oil and fat (10.4),2,1
+Manufacture of other food products (10.8),2,1
+Manufacturing (C),2,1
+Meat processing (03),2,1
+Meat processing (10.1),2,1
+N - Administrative and support service activities,2,2
+Nursing homes (87),2,1
+O - Public administration and defence; compulsory social security,2,2
+P - Education,2,2
+Part-time,2,1
+Plant and machine operators and assemblers (8),2,1
+Private sector,2,1
+Processing of fruit and vegetables (10.3),2,1
+Professionals (2),2,1
+Public administration and defence; compulsory social sec. (O),2,1
+"Public sector, central government",2,1
+"Public sector, local government",2,1
+"Public sector, total",2,1
+Q - Human health and social work activities,2,2
+"R - Arts, entertainment and recreation",2,2
+Retail (47),2,1
+S - Other services activities,2,2
+Service workers and shop and market sales workers (5),2,1
+Technicians and associate professionals (3),2,1
+Total - excluding public administration (O),2,1
+Transportation and storage (H),2,1
+U - Activities of extraterritorial organisations and bodies,2,2
+Wholesale (46),2,1
+Wholesale and retail (46 and 47),2,1
+Wholesale and retail trade; repair of motor vehicles (G),2,1
