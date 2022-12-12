@@ -13,44 +13,44 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Income/expenditure",
             "type": "string",
             "constraints": {
               "enum": [
-                "Expenditure",
-                "Income",
+                "Útgjöld",
+                "Tekjur",
                 ""
               ]
             },
-            "title": "Income/expenditure"
+            "title": "Tekjur/útgjöld"
           },
           {
             "name": "Income group",
             "type": "string",
             "constraints": {
               "enum": [
-                "1st quartile",
-                "2nd quartile",
-                "3rd quartile",
-                "4th quartile",
-                "Total",
-                "1st quantile",
-                "2nd quantile",
-                "3rd quantile",
-                "4th quantile",
-                "5th quantile",
+                "Fyrsti tekjufjórðungur",
+                "Annar tekjufjórðungur",
+                "Þriðji tekjufjórðungur",
+                "Fjórði tekjufjórðjungur",
+                "Alls",
+                "Fyrsti tekjufimmtungur",
+                "Annar tekjufimmtungur",
+                "Þriðji tekjufimmtungur",
+                "Fjórði tekjufimmtungur",
+                "Fimmti tekjufimmtungur",
                 ""
               ]
             },
-            "title": "Income group"
+            "title": "Tekjuhópur"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       }

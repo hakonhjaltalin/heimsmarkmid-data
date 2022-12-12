@@ -13,41 +13,41 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Type of Product",
             "type": "string",
             "constraints": {
               "enum": [
-                "Arms",
-                "Clothing",
-                "Industrial products",
-                "Textiles",
-                "All products",
-                "Agricultural products",
-                "Oil",
+                "Vopn",
+                "Föt",
+                "Iðnaðarvörur",
+                "Vefnaðarvara",
+                "Allar vörutegundir",
+                "Landbúnaðarvörur",
+                "Olía",
                 ""
               ]
             },
-            "title": "Type of Product"
+            "title": "Vörutegund"
           },
           {
             "name": "Status",
             "type": "string",
             "constraints": {
               "enum": [
-                "Most-favoured-nation status",
-                "Preferential Status",
+                "Bestukjaraákvæði",
+                "Ívílnunarkjör",
                 ""
               ]
             },
-            "title": "Status"
+            "title": "Staða"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       }

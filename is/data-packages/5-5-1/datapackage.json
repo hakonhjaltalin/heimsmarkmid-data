@@ -13,36 +13,36 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Karl",
+                "Kona",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Kyn"
           },
           {
             "name": "Level of government",
             "type": "string",
             "constraints": {
               "enum": [
-                "Parliment",
-                "Local government",
+                "Alþingi",
+                "Sveitarstjórnir",
                 ""
               ]
             },
-            "title": "Level of government"
+            "title": "Stjórnarstig"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       }

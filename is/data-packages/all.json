@@ -15,12 +15,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -39,12 +39,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -57,13 +57,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -75,12 +75,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -93,13 +93,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -111,12 +111,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -135,12 +135,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -153,13 +153,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -171,12 +171,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -189,13 +189,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -207,12 +207,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -225,13 +225,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -243,12 +243,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -267,12 +267,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -285,30 +285,30 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Males",
-                "Females",
+                "Karlar",
+                "Konur",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -321,13 +321,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -339,12 +339,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -363,12 +363,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -381,13 +381,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -399,12 +399,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -423,28 +423,28 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Organization",
             "type": "string",
             "constraints": {
               "enum": [
-                "World Trade Organization",
-                "International Bank for Reconstruction and Development",
-                "UN General Assembly",
-                "International Monetary Fund",
-                "International Finanace Corporation",
-                "UN Econonomic and Social Council",
+                "Alþjóðaviðskiptastofnunin (WTO)",
+                "Alþjóðabankinn (IBRD)",
+                "Alsherjaþing Sameinuðu Þjóðanna (UNGA)",
+                "Alþjóðagjaldeyrissjóðurinn (IMF)",
+                "Alþjóða lánastofnunin (IFC)",
+                "Efnahags- og félagsmálaráð Sameinuðu Þjóðanna (UN ECOSOC)",
                 ""
               ]
             },
-            "title": "Organization"
+            "title": "Stofnun"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -457,13 +457,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -475,12 +475,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -493,13 +493,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -511,12 +511,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -529,13 +529,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -547,12 +547,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -565,13 +565,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -583,12 +583,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -601,13 +601,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -619,12 +619,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -643,67 +643,67 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Waste type",
             "type": "string",
             "constraints": {
               "enum": [
-                "Edible food and inedible waste",
-                "Edible food",
+                "Matur og óætur úrgangur",
+                "Matur",
                 ""
               ]
             },
-            "title": "Waste type"
+            "title": "Tegund úrgangs"
           },
           {
             "name": "Waste origin",
             "type": "string",
             "constraints": {
               "enum": [
-                "Household",
-                "Supply chain",
+                "Heimili",
+                "Fyrirtæki",
                 ""
               ]
             },
-            "title": "Waste origin"
+            "title": "Uppruni úrgangs"
           },
           {
             "name": "Sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "Agriculture (01)",
-                "Wholesale (46)",
-                "Retail (47)",
-                "Accommodation (55)",
-                "Food and beverage service (56)",
-                "Education (P)",
-                "Meat processing (10.1)",
-                "Processing of fruit and vegetables (10.3)",
-                "Manufacture of oil and fat (10.4)",
-                "Manufacture of bakery and farinaceous products (10.7)",
-                "Health institutions (86)",
-                "Nursing homes (87)",
-                "Meat processing (03)",
-                "Manufacture of dairy products (10.5)",
-                "Manufacture of other food products (10.8)",
-                "Manufacture of beverages (11)",
-                "Wholesale and retail (46 and 47)",
+                "Landbúnaður (01)",
+                "Heildsala (46)",
+                "Smásala (47)",
+                "Gistiþjónusta (55)",
+                "Veitingaþjónusta (56)",
+                "Fræðslustarfsemi (P)",
+                "Kjötvinnsla (10.1)",
+                "Ávaxta- og grænmetisvinnsla (10.3)",
+                "Framleiðsla olíu og feiti (10.4)",
+                "Framleiðsla bökunarvara (10.7)",
+                "Heilbrigðisstofnanir (86)",
+                "Öldrunarheimili (87)",
+                "Kjötvinnsla (03)",
+                "Framleiðsla mjólkurvara (10.5)",
+                "Framleiðsla annara matvæla (10.8)",
+                "Framleiðsla drykkjavara (11)",
+                "Heildsala og smásala (46 og 47)",
                 "Education (85)",
                 ""
               ]
             },
-            "title": "Sector"
+            "title": "Atvinnugrein"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Tonnes",
-                "Kg per person",
+                "Tonn",
+                "Kg á íbúa",
                 ""
               ]
             },
@@ -712,7 +712,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -725,13 +725,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -743,12 +743,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -767,12 +767,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -791,19 +791,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Karl",
+                "Kona",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Kyn"
           },
           {
             "name": "Age",
@@ -820,12 +820,12 @@
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Aldur"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -838,13 +838,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -856,12 +856,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -880,37 +880,37 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Capacity",
             "type": "string",
             "constraints": {
               "enum": [
-                "Food safety",
-                "Coordination",
-                "Zoonosis",
-                "Response",
-                "Risk communication",
-                "Points of entry",
-                "Legislation",
-                "Radionuclear",
-                "Surveillance",
-                "Laboratory",
-                "Chemical",
-                "Preparedness",
+                "Matvælaöryggi",
+                "Samhæfing",
+                "Smit milli manna og dýra",
+                "Viðbragðsgeta",
+                "Áhættumiðlun",
+                "Landamæri",
+                "Löggjöf",
+                "Geislavarnir",
+                "Eftirlit",
+                "Greiningargeta",
+                "Efnaeitrun",
+                "Viðbúnaður",
                 "Human resources",
-                "National Health Emergency Framework",
-                "Health Service Provision",
+                "Innlend aðgerðaráætlun vegna neyðartilvika",
+                "Aðgengi heilbrigðisþjónustu",
                 ""
               ]
             },
-            "title": "Capacity"
+            "title": "Flokkur"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -923,13 +923,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -941,12 +941,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -965,24 +965,24 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "Kona",
+                "Karl",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Kyn"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -1001,12 +1001,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -1025,36 +1025,36 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Cause of death",
             "type": "string",
             "constraints": {
               "enum": [
-                "X31 Exposure to excessive natural cold",
-                "X36 Victim of avalanche, landslide and other earth movements",
+                "X31 Berskjöldun fyrir náttúrulegum ofurkulda",
+                "X36 Fórnarlamb snjóflóðs, skriðu og annarar tilfærslu jarðvegs",
                 ""
               ]
             },
-            "title": "Cause of death"
+            "title": "Dánarmein"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Karl",
+                "Kona",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Kyn"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -1067,13 +1067,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -1085,12 +1085,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -1103,13 +1103,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -1121,12 +1121,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -1139,13 +1139,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -1157,12 +1157,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -1181,27 +1181,27 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "Kona",
+                "Karl",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Kyn"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Attainment at age 9",
-                "Attainment at age 15",
+                "Lágmarksfærni við 9 ára aldur",
+                "Lágmarksfærni við 15 ára aldur",
                 ""
               ]
             },
@@ -1212,17 +1212,17 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Reading",
-                "Math",
+                "Lestur",
+                "Stærðfræði",
                 ""
               ]
             },
-            "title": "Type of skill"
+            "title": "Tegund færni"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -1235,13 +1235,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -1253,12 +1253,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -1271,13 +1271,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -1289,12 +1289,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -1313,12 +1313,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -1337,7 +1337,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Age-group",
@@ -1353,26 +1353,26 @@
                 ""
               ]
             },
-            "title": "Age-group"
+            "title": "Aldurshópur"
           },
           {
             "name": "Skill",
             "type": "string",
             "constraints": {
               "enum": [
-                "Information skills",
-                "Communications skills",
-                "Problem solving skills",
-                "Software",
+                "Upplýsingafærni",
+                "Samskiptafærni",
+                "Lausnarfærni",
+                "Hugbúnaðarfærni",
                 ""
               ]
             },
-            "title": "Skill"
+            "title": "Þekking"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -1391,12 +1391,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -1415,7 +1415,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Age group",
@@ -1432,24 +1432,24 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Aldurshópur"
           },
           {
             "name": "Type of violence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Physical violence",
-                "Sexual violence",
+                "Líkamlegt ofbeldi",
+                "Kynferðislegt ofbeldi",
                 ""
               ]
             },
-            "title": "Type of violence"
+            "title": "Tegund ofbeldis"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -1468,44 +1468,44 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Income/expenditure",
             "type": "string",
             "constraints": {
               "enum": [
-                "Expenditure",
-                "Income",
+                "Útgjöld",
+                "Tekjur",
                 ""
               ]
             },
-            "title": "Income/expenditure"
+            "title": "Tekjur/útgjöld"
           },
           {
             "name": "Income group",
             "type": "string",
             "constraints": {
               "enum": [
-                "1st quartile",
-                "2nd quartile",
-                "3rd quartile",
-                "4th quartile",
-                "Total",
-                "1st quantile",
-                "2nd quantile",
-                "3rd quantile",
-                "4th quantile",
-                "5th quantile",
+                "Fyrsti tekjufjórðungur",
+                "Annar tekjufjórðungur",
+                "Þriðji tekjufjórðungur",
+                "Fjórði tekjufjórðjungur",
+                "Alls",
+                "Fyrsti tekjufimmtungur",
+                "Annar tekjufimmtungur",
+                "Þriðji tekjufimmtungur",
+                "Fjórði tekjufimmtungur",
+                "Fimmti tekjufimmtungur",
                 ""
               ]
             },
-            "title": "Income group"
+            "title": "Tekjuhópur"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -1518,13 +1518,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -1536,12 +1536,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -1560,24 +1560,24 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Karl",
+                "Kona",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Kyn"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -1596,50 +1596,50 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "5 years and younger",
-                "6 - 12 years",
-                "13 - 18 years",
-                "Total",
+                "5 ára og yngri",
+                "6 - 12 ára",
+                "13 - 18 ára",
+                "Alls",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Aldur"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Karl",
+                "Kona",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Kyn"
           },
           {
             "name": "Nationality",
             "type": "string",
             "constraints": {
               "enum": [
-                "Foreign",
-                "Icelandic",
+                "Erlent",
+                "Íslenskt",
                 ""
               ]
             },
-            "title": "Nationality"
+            "title": "Þjóðerni"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -1658,12 +1658,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -1676,13 +1676,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -1694,12 +1694,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -1718,36 +1718,36 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Cause of death",
             "type": "string",
             "constraints": {
               "enum": [
-                "X31 Exposure to excessive natural cold",
-                "X36 Victim of avalanche, landslide and other earth movements",
+                "X31 Berskjöldun fyrir náttúrulegum ofurkulda",
+                "X36 Fórnarlamb snjóflóðs, skriðu og annarar tilfærslu jarðvegs",
                 ""
               ]
             },
-            "title": "Cause of death"
+            "title": "Dánarmein"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Karl",
+                "Kona",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Kyn"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -1766,12 +1766,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -1790,12 +1790,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -1808,13 +1808,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -1826,12 +1826,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -1844,13 +1844,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -1862,12 +1862,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -1880,13 +1880,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -1898,12 +1898,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -1922,12 +1922,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -1946,12 +1946,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -1964,13 +1964,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -1982,12 +1982,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2006,12 +2006,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2030,25 +2030,25 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "Domestic Material Consumption (DMC) [Kilotonnes]",
-                "DMC per capita [kilotonnes per person]",
-                "DMC per GDP [kilotonnes per MISK]",
+                "Innlend efnisnotkun (DMC) [Kílótonn]",
+                "DMC á íbúa [Kílótonn á íbúa]",
+                "DMC á verga landsframleiðslu [Kílótonn per milljón ISK]",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Flokkur"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2061,13 +2061,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -2079,12 +2079,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2097,13 +2097,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -2115,12 +2115,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2133,13 +2133,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -2151,12 +2151,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2175,7 +2175,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Convention",
@@ -2189,12 +2189,12 @@
                 ""
               ]
             },
-            "title": "Convention"
+            "title": "Umhverfissamningur"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2213,24 +2213,24 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Males",
-                "Females",
+                "Karlar",
+                "Konur",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Kyn"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2249,12 +2249,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2267,13 +2267,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -2285,12 +2285,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2303,13 +2303,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -2321,12 +2321,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2345,12 +2345,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2363,13 +2363,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -2381,12 +2381,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2399,13 +2399,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -2417,12 +2417,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2441,12 +2441,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2465,25 +2465,25 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Type",
             "type": "string",
             "constraints": {
               "enum": [
-                "Forest > 5m",
-                "Forest < 5m",
-                "Total Forest cover",
+                "Skógur > 5m",
+                "Skógur < 5m",
+                "Heildar skógþekja",
                 ""
               ]
             },
-            "title": "Type"
+            "title": "Tegund"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2496,13 +2496,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -2514,12 +2514,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2538,12 +2538,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2562,51 +2562,51 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Fatal/non-fatal",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Fatal",
-                "non-fatal",
+                "Alls",
+                "Banvænt",
+                "Óbanvænt",
                 ""
               ]
             },
-            "title": "Fatal/non-fatal"
+            "title": "Banvænt/óbanvænt"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Both",
-                "Male",
-                "Female",
+                "Bæði",
+                "Karl",
+                "Kona",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Kyn"
           },
           {
             "name": "Nationality",
             "type": "string",
             "constraints": {
               "enum": [
-                "All",
-                "Icelandic",
-                "Foreign",
+                "Öll",
+                "Íslenskt",
+                "Erlent",
                 ""
               ]
             },
-            "title": "Nationality"
+            "title": "Þjóðerni"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2625,28 +2625,28 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "Category 1",
-                "Category 2",
-                "Category 3",
-                "Category 4",
-                "Category 5",
-                "Other (glaciers etc.)",
+                "Flokkur 1",
+                "Flokkur 2",
+                "Flokkur 3",
+                "Flokkur 4",
+                "Flokkur 5",
+                "Annað (jöklar o.fl.)",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Flokkur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2659,13 +2659,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -2677,12 +2677,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2695,13 +2695,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -2713,12 +2713,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2731,13 +2731,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -2749,12 +2749,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2767,13 +2767,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -2785,12 +2785,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2809,12 +2809,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2833,24 +2833,24 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage of GDP",
-                "Percentage of fuel imports",
+                "Hlutfall (%) af vergri þjóðarframleiðslu",
+                "Hlutfall (%) af eldsneytisinnflutningi",
                 ""
               ]
             },
-            "title": "Unit"
+            "title": "Eining"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2869,12 +2869,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2896,19 +2896,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Karl",
+                "Kona",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Kyn"
           },
           {
             "name": "Age",
@@ -2925,12 +2925,12 @@
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Aldur"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2943,13 +2943,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -2961,12 +2961,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -2985,15 +2985,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage (%) of national budget",
-                "Percentage (%) of Gross Domestic Product (GDP)",
+                "Hlutfall af heildarútgjöldum hins opinbera",
+                "Hlutfall (%) af vergri þjóðarframleiðslu (GDP)",
                 ""
               ]
             },
@@ -3004,18 +3004,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Health",
-                "Social Protection",
-                "Education",
+                "Heilbrigðismál",
+                "Félagsvernd",
+                "Menntun",
                 ""
               ]
             },
-            "title": "Area of Spending Category"
+            "title": "Útgjaldaliður"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3034,12 +3034,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3058,25 +3058,25 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Status",
             "type": "string",
             "constraints": {
               "enum": [
-                "Hate crimes recorded by police",
-                "Prosecuted",
-                "Sentenced",
+                "Hatursglæpir sem skráðir eru hjá lögreglu",
+                "Lögsótt",
+                "Sakfellt",
                 ""
               ]
             },
-            "title": "Status"
+            "title": "Staða"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3089,13 +3089,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -3107,12 +3107,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3125,13 +3125,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -3143,12 +3143,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3161,13 +3161,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -3179,12 +3179,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3197,13 +3197,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -3215,12 +3215,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3233,13 +3233,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -3251,12 +3251,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3269,13 +3269,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -3287,12 +3287,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3311,25 +3311,25 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Energy Source",
             "type": "string",
             "constraints": {
               "enum": [
-                "Hydro",
-                "Geothermal",
-                "Wind",
+                "Vatnsafl",
+                "Jarðvarmi",
+                "Vindafl",
                 ""
               ]
             },
-            "title": "Energy Source"
+            "title": "Uppruni"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3342,13 +3342,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -3360,12 +3360,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3378,13 +3378,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -3396,12 +3396,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3414,13 +3414,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -3432,12 +3432,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3456,24 +3456,24 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Service",
             "type": "string",
             "constraints": {
               "enum": [
-                "Branches of commercial banks",
-                "Number of Automated Teller Machines (ATMs)",
+                "Fjöldi viðskiptabankaútibúa",
+                "Fjöldi hraðbanka",
                 ""
               ]
             },
-            "title": "Service"
+            "title": "Þjónusta"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3492,24 +3492,24 @@
           {
             "name": "Year",
             "type": "string",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Severity",
             "type": "string",
             "constraints": {
               "enum": [
-                "Moderate or Severe",
-                "Severe only",
+                "Nokkurt og alvarlegt",
+                "Bara alvarlegt",
                 ""
               ]
             },
-            "title": "Severity"
+            "title": "Alvarleiki"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3531,19 +3531,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Karl",
+                "Kona",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Kyn"
           },
           {
             "name": "Age",
@@ -3560,24 +3560,24 @@
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Aldur"
           },
           {
             "name": "Perpetrator",
             "type": "string",
             "constraints": {
               "enum": [
-                "Adult",
-                "Same age",
+                "Fullorðinn",
+                "Jafnaldri",
                 ""
               ]
             },
-            "title": "Perpetrator"
+            "title": "Gerandi"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3596,12 +3596,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3620,12 +3620,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3644,12 +3644,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3668,50 +3668,50 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Vaccine",
             "type": "string",
             "constraints": {
               "enum": [
-                "DTP, Polio, HIB",
-                "DTP revaccination at 4 years old",
-                "DTP & Polio revaccination at 14 years old",
-                "Pneumococcal Vaccine",
-                "Meningococcal C vaccine",
-                "MMR",
-                "MMR revaccination",
+                "Barnaveiki, Stífkrampi, kíkhósti (DTP), lömunarveiki og Haemofilus influenzae b",
+                "DTP endurbólusetning",
+                "DTP og Pólíó endurbólusetning",
+                "Pneumókokkar",
+                "Meningókokkar C",
+                "Mislingar, hettusótt, rauðir hundar (MMR)",
+                "MMR endurbólusetning",
                 "HPV-1",
                 "HPV-2",
                 ""
               ]
             },
-            "title": "Vaccine"
+            "title": "Bóluefni"
           },
           {
             "name": "Vaccine - participation",
             "type": "string",
             "constraints": {
               "enum": [
-                "% Covered at 3 months old",
-                "% Covered at 5 months old",
-                "% Covered at 12 months old",
-                "% Covered at 4 years old",
-                "% Covered at 14 years old",
-                "% Covered at 6 months old",
-                "% Covered at 8 months old",
+                "% Þáttaka við 3 mánaða aldur",
+                "% Þáttaka við 5 mánaða aldur",
+                "% Þáttaka við 12 mánaða aldur",
+                "% Þáttaka við 4 ára aldur",
+                "% Þáttaka við 14 ára aldur",
+                "% Þáttaka við 6 mánaða aldur",
+                "% Þáttaka við 8 mánaða aldur",
                 "% Covered at 18 months old",
-                "% Covered at 12 years old",
+                "% Þáttaka við 12 ára aldur",
                 ""
               ]
             },
-            "title": "Vaccine - participation"
+            "title": "Þáttaka í bólusetningu"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3730,25 +3730,25 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Biota",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mammals",
-                "Birds",
-                "Vascular Plants",
+                "Spendýr",
+                "Fuglar",
+                "Plöntur",
                 ""
               ]
             },
-            "title": "Biota"
+            "title": "Lífríki"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3767,27 +3767,27 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Sub-indicator.",
             "type": "string",
             "constraints": {
               "enum": [
-                "Forest area annual net change (%)",
-                "Above-ground biomass stock in forest [ton/ha]",
-                "Proportion of forest area located within legally established protected areas [%]",
-                "Proportion of forest area under long-term forest management plan [%]",
-                "Forest area under independantely verified forest management certification schemes [1000 ha]",
+                "Árleg breyting í skógþekju (%)",
+                "Skógarlífmassi ofanjarðar [ton/ha]",
+                "Hlutfall skóglendis innan friðaðra svæða [%]",
+                "Hlutfall skóglendis í langtíma skógstýringu [%]",
+                "Skógar í vottaðri og sjálfbærri skógarstjórnun [1000 ha]",
                 ""
               ]
             },
-            "title": "Sub-indicator."
+            "title": "Hlutvísir"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3800,13 +3800,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -3818,12 +3818,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3836,13 +3836,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -3854,12 +3854,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3878,27 +3878,27 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Index",
             "type": "string",
             "constraints": {
               "enum": [
-                "Reading attainment at age 9",
-                "Reading attainment at age 15",
-                "Math attainment at age 15",
-                "Participation rate in formal education",
-                "Participation rate in  non-formal education",
+                "Lestrarfærni við 9 ára aldur",
+                "Lestrarfærni við 15 ára aldur",
+                "Reiknifærni við 15 ára aldur",
+                "Þáttökuhlutfall í formlegu námi",
+                "Þáttökuhlutfall í óformlegu námi",
                 ""
               ]
             },
-            "title": "Index"
+            "title": "Jöfnuðarvísir"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3917,12 +3917,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3941,12 +3941,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3965,24 +3965,24 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Compulsory school",
-                "Preschools",
+                "Grunnskóli",
+                "Leikskóli",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -3995,13 +3995,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -4013,12 +4013,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4031,13 +4031,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -4049,12 +4049,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4067,13 +4067,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -4085,12 +4085,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4109,24 +4109,24 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Karl",
+                "Kona",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Kyn"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4139,13 +4139,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -4157,12 +4157,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4175,13 +4175,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -4193,12 +4193,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4217,12 +4217,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4241,12 +4241,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4265,12 +4265,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4289,12 +4289,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4313,12 +4313,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4331,13 +4331,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -4349,12 +4349,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4373,12 +4373,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4391,13 +4391,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -4409,12 +4409,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4427,13 +4427,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -4445,12 +4445,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4469,24 +4469,24 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Type of Violence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Sexual assault",
-                "Physical assault",
+                "Kynferðislegt ofbeldi",
+                "Líkamlegt ofbeldi",
                 ""
               ]
             },
-            "title": "Type of Violence"
+            "title": "Tegund ofbeldis"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4505,25 +4505,25 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "Domestic Material Consumption (DMC) [Kilotonnes]",
-                "DMC per capita [kilotonnes per person]",
-                "DMC per GDP [kilotonnes per MISK]",
+                "Innlend efnisnotkun (DMC) [Kílótonn]",
+                "DMC á íbúa [Kílótonn á íbúa]",
+                "DMC á verga landsframleiðslu [Kílótonn per milljón ISK]",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Flokkur"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4536,13 +4536,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -4554,12 +4554,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4578,12 +4578,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4596,13 +4596,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -4614,12 +4614,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4638,12 +4638,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4662,12 +4662,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4686,12 +4686,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4704,13 +4704,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -4722,12 +4722,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4746,25 +4746,25 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Connection type",
             "type": "string",
             "constraints": {
               "enum": [
-                "Equal to or above 10 Mbit/s",
-                "256 kbit/s to less than 2 Mbit/s",
-                "2 Mbit/s to less than 10 Mbit/s",
+                "Jafnt eða yfir 10 Mbit/s",
+                "256 kbit/s til minna en 2 Mbit/s",
+                "2 Mbit/s til minna en 10 Mbit/s",
                 ""
               ]
             },
-            "title": "Connection type"
+            "title": "Tegund tengingu"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4777,13 +4777,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -4795,12 +4795,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4813,13 +4813,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -4831,12 +4831,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4855,27 +4855,27 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Type of treatment",
             "type": "string",
             "constraints": {
               "enum": [
-                "Recovery",
-                "Disposal",
+                "Endurvinnsla",
+                "Urðun",
                 ""
               ]
             },
-            "title": "Type of treatment"
+            "title": "Meðhöndlun"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Tonne per capita",
-                "Percentage of all hazardous waste",
+                "Tonn á íbúa",
+                "Hlutfall alls hættulegs úrgangs",
                 ""
               ]
             },
@@ -4884,7 +4884,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4897,13 +4897,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -4915,12 +4915,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4939,15 +4939,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage of GDP",
-                "MISK per capita",
+                "Hlutfall (%) af vergri þjóðarframleiðslu",
+                "Millj. kr á íbúa",
                 ""
               ]
             },
@@ -4958,34 +4958,34 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "C. Manufacturing",
-                "C: 10-12 Manufacture of food products, beverages and tobacco products",
-                "C: 10-12 Thereof Fish processing",
-                "C: 13-15 Manufacture of textiles, wearing apparel and leather products",
-                "C: 16-17 Manufacture of wood and paper products",
-                "C: 18 Printing and reproduction of recorded media",
-                "C: 19 Manufacture of coke and refined petroleum products",
-                "C: 20-21 Manufacture of chemicals, chemical products, basic pharmaceutical products and pharmaceutical preparations",
-                "C: 22 Manufacture of rubber and plastic products",
-                "C: 23 Manufacture of other non-metallic mineral products",
-                "C: 24 Manufacture of basic metals",
-                "C: 25 Manufacture of fabricated metal products, except machinery and equipment",
-                "C: 26 Manufacture of computer, electronic and optical products",
-                "C: 27 Manufacture of electrical equipment",
-                "C: 28 Manufacture of machinery and equipment n.e.c.",
-                "C: 29 Manufacture of motor vehicles, trailers and semi-trailers",
-                "C: 30 Manufacture of other transport equipment",
-                "C: 31-32 Manufacture of furniture; other manufacturing",
-                "C: 33 Repair and installation of machinery and equipment",
+                "C. Framleiðsla",
+                "C: 10-12 Matvæla- og drykkjavöruiðnaður; tóbaksiðnaður",
+                "C: 10-12 Þaraf Fiskvinnsla",
+                "C: 13-15 Textíl-, fata- og leðuriðnaður",
+                "C: 16-17 Trjá- og pappírsiðnaður",
+                "C: 18 Prentun og fjölföldun upptekins efnis",
+                "C: 19 Framleiðsla á koksi og hreinsuðum olíuvörum",
+                "C: 20-21 Framleiðsla á efnum og efnavörum og á lyfjum og efnum til lyfjagerðar",
+                "C: 22 Framleiðsla á gúmmí- og plastvörum",
+                "C: 23 Framleiðsla á vörum úr málmlausum steinefnum",
+                "C: 24 Framleiðsla málma",
+                "C: 25 Framleiðsla á málmvörum, að undanskildum vélum og búnaði",
+                "C: 26 Framleiðsla á tölvu-, rafeinda- og optískum vörum",
+                "C: 27 Framleiðsla á rafbúnaði og heimilistækjum",
+                "C: 28 Framleiðsla á öðrum ótöldum vélum og tækjum",
+                "C: 29 Framleiðsla á vélknúnum ökutækjum og tengivögnum",
+                "C: 30 Framleiðsla annarra farartækja",
+                "C: 31-32 Framleiðsla á húsgögnum, innréttingum og vörum til lækninga; önnur framleiðsla",
+                "C: 33 Viðgerðir og uppsetning vélbúnaðar og tækja",
                 ""
               ]
             },
-            "title": "Industry category"
+            "title": "Atvinnugrein"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -4998,13 +4998,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -5016,12 +5016,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -5040,24 +5040,24 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Least developed",
-                "Developing",
+                "Minnst þróuðu ríkin",
+                "Þróunarlönd",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -5070,13 +5070,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -5088,12 +5088,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -5106,13 +5106,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -5124,12 +5124,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -5148,25 +5148,25 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Enterprises",
-                "Tertiary education institutions",
-                "Government institutions (excluding universities)",
+                "Fyrirtæki",
+                "Háskólastofnanir",
+                "Rannsóknarstofnanir (að undanskildum háskólum)",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -5185,12 +5185,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -5203,13 +5203,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -5221,12 +5221,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -5239,13 +5239,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -5257,12 +5257,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -5281,47 +5281,47 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Capital Region",
+                "Höfuðborgarsvæðið",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Landshluti"
           },
           {
             "name": "Condition",
             "type": "string",
             "constraints": {
               "enum": [
-                "Overweight",
-                "Obese",
+                "Ofþyngd",
+                "Offita",
                 ""
               ]
             },
-            "title": "Condition"
+            "title": "Næringarfræðilegt ástand"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Karl",
+                "Kona",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Kyn"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -5334,13 +5334,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -5352,12 +5352,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -5370,13 +5370,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -5388,12 +5388,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -5406,13 +5406,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -5424,12 +5424,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -5442,13 +5442,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -5460,12 +5460,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -5484,19 +5484,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Education Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "Formal",
-                "Non-Formal",
+                "Formlegt",
+                "Óformlegt",
                 ""
               ]
             },
-            "title": "Education Category"
+            "title": "Tegund náms"
           },
           {
             "name": "Age",
@@ -5508,24 +5508,24 @@
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Aldur"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Karl",
+                "Kona",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Kyn"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -5538,13 +5538,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -5556,12 +5556,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -5574,13 +5574,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -5592,12 +5592,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -5610,13 +5610,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -5628,12 +5628,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -5646,13 +5646,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -5664,12 +5664,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -5688,12 +5688,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -5712,12 +5712,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -5730,13 +5730,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -5748,12 +5748,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -5772,25 +5772,25 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "Lakes and reservoirs",
-                "Rivers and Estuaries",
-                "Wetlands",
+                "Vötn og uppistöðulón",
+                "Ár og árósar",
+                "Votlendi",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Flokkur"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -5809,38 +5809,38 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "Kona",
+                "Karl",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Kyn"
           },
           {
             "name": "Living condition",
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary homeless",
-                "Secondary homeless",
-                "Poor housing conditions",
-                "Overcrowding",
+                "Útigangsfólk",
+                "Fólk í húsnæðishraki",
+                "Lélegt ástand húsnæðis",
+                "Þéttbýli",
                 ""
               ]
             },
-            "title": "Living condition"
+            "title": "Húsnæðisaðstæður"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -5853,13 +5853,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -5871,12 +5871,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -5889,13 +5889,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -5907,12 +5907,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -5925,13 +5925,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -5943,12 +5943,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -5967,12 +5967,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -5991,26 +5991,26 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
             "type": "string",
             "constraints": {
               "enum": [
-                "Never smoked",
-                "Quit smoking",
-                "Smoke less frequently than daily",
-                "Smoke daily",
+                "Aldrei reykt",
+                "Hætt að reykja",
+                "Reyki sjaldnar en daglega",
+                "Reyki daglega",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6032,19 +6032,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "Kona",
+                "Karl",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Kyn"
           },
           {
             "name": "Age",
@@ -6057,12 +6057,12 @@
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Aldur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6081,12 +6081,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6105,39 +6105,39 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Type of Occupation",
             "type": "string",
             "constraints": {
               "enum": [
-                "Biomedical scientists",
-                "Dental hygienists",
-                "Dental Surgery Assistants",
-                "Dentists",
-                "Environmental health officers",
-                "Exam. pharmacists",
-                "Midwives",
-                "Nurses",
-                "Occupational therapists",
-                "Pharmacists",
-                "Pharmacy technicians",
-                "Physicians and surgeons",
-                "Physiotherapists",
-                "Practical nurses",
-                "Proprietary pharmacists",
-                "Radiographers",
-                "Social workers",
+                "Lífeindafræðingar",
+                "Tannfræðingar",
+                "Tanntæknar og aðstoðarfólk tannlækna",
+                "Tannlæknar",
+                "Heilbrigðisfulltrúar",
+                "Aðstoðarlyfjafræðingar",
+                "Ljósmæður",
+                "Hjúkrunarfræðingar",
+                "Iðjuþjálfar",
+                "Lyfjafræðingar",
+                "Lyfjatæknar",
+                "Læknar",
+                "Sjúkraþjálfarar",
+                "Sjúkraliðar",
+                "Lyfsalar",
+                "Geislafræðingar",
+                "Félagsráðgjafar",
                 ""
               ]
             },
-            "title": "Type of Occupation"
+            "title": "Starfsgrein"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6156,12 +6156,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6180,12 +6180,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6204,12 +6204,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6222,13 +6222,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -6240,12 +6240,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6258,13 +6258,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -6276,12 +6276,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6300,26 +6300,26 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Revenue",
             "type": "string",
             "constraints": {
               "enum": [
-                "Tax revenue",
-                "Social contributions",
-                "Grants",
-                "Other revenue",
+                "Skattekjur",
+                "Tryggingagjöld",
+                "Fjárframlög",
+                "Aðrar tekjur",
                 ""
               ]
             },
-            "title": "Revenue"
+            "title": "Tekjur"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6338,12 +6338,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6362,25 +6362,25 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Status",
             "type": "string",
             "constraints": {
               "enum": [
-                "Hate crimes recorded by police",
-                "Prosecuted",
-                "Sentenced",
+                "Hatursglæpir sem skráðir eru hjá lögreglu",
+                "Lögsótt",
+                "Sakfellt",
                 ""
               ]
             },
-            "title": "Status"
+            "title": "Staða"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6399,19 +6399,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Males",
-                "Females",
+                "Karlar",
+                "Konur",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Kyn"
           },
           {
             "name": "Age",
@@ -6424,12 +6424,12 @@
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Aldur"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6448,12 +6448,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6472,12 +6472,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6490,13 +6490,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -6508,12 +6508,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6532,12 +6532,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6550,13 +6550,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -6568,12 +6568,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6586,13 +6586,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -6604,12 +6604,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6622,13 +6622,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -6640,12 +6640,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6664,12 +6664,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6682,13 +6682,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -6700,12 +6700,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6718,13 +6718,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -6736,12 +6736,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6754,13 +6754,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -6772,12 +6772,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6790,13 +6790,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -6808,12 +6808,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6832,26 +6832,26 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Disease",
             "type": "string",
             "constraints": {
               "enum": [
-                "Cancer",
-                "Diabetes",
-                "Cardiovascular disease",
-                "Chronic respiratory disease",
+                "Krabbamein",
+                "Sykursýki",
+                "Hjarta- og æðasjúkdómar",
+                "langvinnir öndunarfærasjúkdómar",
                 ""
               ]
             },
-            "title": "Disease"
+            "title": "Sjúkdómur"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6864,13 +6864,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -6882,12 +6882,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6900,13 +6900,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -6918,12 +6918,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6936,13 +6936,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -6954,12 +6954,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -6972,13 +6972,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -6990,12 +6990,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7008,13 +7008,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -7026,12 +7026,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7044,13 +7044,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -7062,12 +7062,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7086,60 +7086,60 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Karl",
+                "Kona",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Kyn"
           },
           {
             "name": "Sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total - excluding public administration (O)",
-                "Private sector",
-                "Public sector, total",
-                "Public sector, central government",
-                "Public sector, local government",
-                "Full-time",
-                "Part-time",
-                "Manufacturing (C)",
-                "Electricity, gas, steam, and air conditioning supply (D)",
-                "Wholesale and retail trade; repair of motor vehicles (G)",
-                "Transportation and storage (H)",
-                "Information and communication (J)",
-                "Accomodation and food services (I)",
-                "Financial and insurance activities (K)",
-                "Public administration and defence; compulsory social sec. (O)",
-                "Education (P)",
-                "Human health and social work activities (Q)",
-                "Managers (1)",
-                "Professionals (2)",
-                "Technicians and associate professionals (3)",
-                "Clerks (4)",
-                "Service workers and shop and market sales workers (5)",
-                "Craft and related workers (7)",
-                "Plant and machine operators and assemblers (8)",
-                "Elementary occupations (9)",
-                "General, machine and specialized workers",
+                "Alls - án opinberrar stjórnsýslu (O)",
+                "Almennur vinnumarkaður",
+                "Opinberir starfsmenn",
+                "Opinberir starfsmenn - ríkisstarfsmenn",
+                "Opinberir starfsmenn - starfsmenn sveitarfélaga",
+                "Fullvinnandi",
+                "Hlutastarfsfólk",
+                "Framleiðsla (C)",
+                "Rafmagns-, gas- og hitaveitur (D)",
+                "Heild- og smásöluverslun, viðgerðir á vélknúnum ökutækjum (G)",
+                "Flutningar og geymsla (H)",
+                "Upplýsingar og fjarskipti (J)",
+                "Rekstur gististaða og veitingarekstur (I)",
+                "Fjármála- og vátryggingastarfsemi (K)",
+                "Opinber stjórnsýsla og varnarmál; almannatryggingar (O)",
+                "Fræðslustarfsemi (P)",
+                "Heilbrigðis- og félagsþjónusta (Q)",
+                "Stjórnendur (1)",
+                "Sérfræðingar (2)",
+                "Tæknar og sérmenntað starfsfólk (3)",
+                "Skrifstofufólk (4)",
+                "Þjónustu-, sölu- og afgreiðslufólk (5)",
+                "Iðnaðarmenn og sérhæft iðnverkafólk (7)",
+                "Véla- og vélgæslufólk (8)",
+                "Ósérhæft starfsfólk (9)",
+                "Verkafólk",
                 ""
               ]
             },
-            "title": "Sector"
+            "title": "Atvinnugrein"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7158,12 +7158,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7182,12 +7182,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7206,41 +7206,41 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "A - Agriculture, forestry and fishing",
-                "B - Mining and quarrying",
-                "C - Manufacturing",
-                "D - Electricity and power generation",
-                "E - Water collection, waste management and remediation activities",
-                "F - Construction",
-                "G - Trade and repair of mechanical equipment",
-                "H - Tranportation and storage",
-                "I - Accommodation and food services activities",
-                "J - Information and communication",
-                "K - Financial and insurance activities",
-                "M - Professional, scientific and technical activities",
-                "N - Administrative and support service activities",
-                "O - Public administration and defence; compulsory social security",
-                "P - Education",
-                "Q - Human health and social work activities",
-                "R - Arts, entertainment and recreation",
-                "S - Other services activities",
-                "U - Activities of extraterritorial organisations and bodies",
+                "A - Landbúnaður, skógrækt og fiskveiðar",
+                "B - Námugröftur og vinnsla hráefna úr jörðu",
+                "C - Framleiðsla",
+                "D - Rafmagns-, gas- og hitaveitur",
+                "E - Vatnsveita, fráveita, meðhöndlun úrgangs og afmengun",
+                "F - Byggingastarfsemi og mannvirkjagerð",
+                "G - Heild og smásöluverslun, viðgerðir á vélknúnum ökutækjum",
+                "H - Flutningur og geymsla",
+                "I - Rekstur gististaða og veitingarekstur",
+                "J - Upplýsingar og fjarskipti",
+                "K - Fjármála og vátryggingastarfsemi",
+                "M - Sérfræðileg, vísindaleg og tæknileg starfsemi",
+                "N - Leigustarfsemi og ýmis sérhæfð þjónusta",
+                "O - Opinber stjórnsýsla og varnarmál; almannatryggingar",
+                "P - Fræðslustarfsemi",
+                "Q - Heilbrigðis og félagsþjónusta",
+                "R - Menningar, íþrjótta og tómstundastarfsemi",
+                "S - Félagasamtök og önnur þjónustustarfsemi",
+                "U - Starfsemi stofnana og samtaka með úrlendisrétt",
                 ""
               ]
             },
-            "title": "Sector"
+            "title": "Atvinnugrein"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7253,13 +7253,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -7271,12 +7271,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7295,12 +7295,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7313,13 +7313,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -7331,12 +7331,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7355,12 +7355,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7373,13 +7373,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -7391,12 +7391,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7415,12 +7415,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7439,28 +7439,28 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Organization",
             "type": "string",
             "constraints": {
               "enum": [
-                "World Trade Organization",
-                "International Bank for Reconstruction and Development",
-                "UN General Assembly",
-                "International Monetary Fund",
-                "International Finanace Corporation",
-                "UN Econonomic and Social Council",
+                "Alþjóðaviðskiptastofnunin (WTO)",
+                "Alþjóðabankinn (IBRD)",
+                "Alsherjaþing Sameinuðu Þjóðanna (UNGA)",
+                "Alþjóðagjaldeyrissjóðurinn (IMF)",
+                "Alþjóða lánastofnunin (IFC)",
+                "Efnahags- og félagsmálaráð Sameinuðu Þjóðanna (UN ECOSOC)",
                 ""
               ]
             },
-            "title": "Organization"
+            "title": "Stofnun"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7479,24 +7479,24 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Karl",
+                "Kona",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Kyn"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7509,13 +7509,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -7527,12 +7527,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7545,13 +7545,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -7563,12 +7563,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7581,13 +7581,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -7599,12 +7599,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7617,13 +7617,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -7635,12 +7635,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7659,12 +7659,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7677,13 +7677,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -7695,12 +7695,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7719,52 +7719,52 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "A - Agriculture, forestry and fishing",
-                "B - Mining and quarrying",
-                "C - Manufacturing",
-                "D - Electricity and power generation",
-                "E - Water collection, waste management and remediation activities",
-                "F - Construction",
-                "G - Trade and repair of mechanical equipment",
-                "H - Tranportation and storage",
-                "I - Accommodation and food services activities",
-                "J - Information and communication",
-                "K - Financial and insurance activities",
-                "M - Professional, scientific and technical activities",
-                "N - Administrative and support service activities",
-                "O - Public administration and defence; compulsory social security",
-                "P - Education",
-                "Q - Human health and social work activities",
-                "R - Arts, entertainment and recreation",
-                "S - Other services activities",
-                "U - Activities of extraterritorial organisations and bodies",
-                "Households",
+                "A - Landbúnaður, skógrækt og fiskveiðar",
+                "B - Námugröftur og vinnsla hráefna úr jörðu",
+                "C - Framleiðsla",
+                "D - Rafmagns-, gas- og hitaveitur",
+                "E - Vatnsveita, fráveita, meðhöndlun úrgangs og afmengun",
+                "F - Byggingastarfsemi og mannvirkjagerð",
+                "G - Heild og smásöluverslun, viðgerðir á vélknúnum ökutækjum",
+                "H - Flutningur og geymsla",
+                "I - Rekstur gististaða og veitingarekstur",
+                "J - Upplýsingar og fjarskipti",
+                "K - Fjármála og vátryggingastarfsemi",
+                "M - Sérfræðileg, vísindaleg og tæknileg starfsemi",
+                "N - Leigustarfsemi og ýmis sérhæfð þjónusta",
+                "O - Opinber stjórnsýsla og varnarmál; almannatryggingar",
+                "P - Fræðslustarfsemi",
+                "Q - Heilbrigðis og félagsþjónusta",
+                "R - Menningar, íþrjótta og tómstundastarfsemi",
+                "S - Félagasamtök og önnur þjónustustarfsemi",
+                "U - Starfsemi stofnana og samtaka með úrlendisrétt",
+                "Heimili",
                 ""
               ]
             },
-            "title": "Sector"
+            "title": "Atvinnugrein"
           },
           {
             "name": "Source",
             "type": "string",
             "constraints": {
               "enum": [
-                "Energy",
-                "Industrial Processes",
-                "Agriculture",
-                "Land use, land-use change and forestry",
-                "Waste",
+                "Orka",
+                "Iðnaðarferlar",
+                "Landbúnaður",
+                "Landnotkun, breyting á landnotkun og skógrækt",
+                "Úrgangur",
                 ""
               ]
             },
-            "title": "Source"
+            "title": "Uppspretta"
           },
           {
             "name": "Accounts",
@@ -7776,12 +7776,12 @@
                 ""
               ]
             },
-            "title": "Accounts"
+            "title": "Bókhald"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7800,29 +7800,29 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [
-                "Liquid assets to short-term liabilities",
-                "Regulatory Tier 1 capital to assets",
-                "Regulatory Tier 1 capital to risk- weighted assets",
-                "Nonperforming loans net of provisions to capital",
-                "Nonperforming loans to total gross loans",
-                "Return on assets",
-                "Net open position in foreign exchange to capital",
+                "Hlutfall lausaeigna við skammtímaskuldbindingar.",
+                "Eigið fé sem hlutfall af eignum samkvæmt reglugerðarflokki 1.",
+                "Eigið fé sem hlutfall af áhættuvegnum eignum samkvæmt reglugerðarflokki 1.",
+                "Hlutfall útlána í vanskilum af niðurfellingum lána.",
+                "Útlán í vanskilum sem hlutfall af heildar lánveitingum.",
+                "Arðsemi eigna.",
+                "Munur á erlendum eignum og skuldbindingum.",
                 ""
               ]
             },
-            "title": "Indicator"
+            "title": "Mælikvarði"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7841,36 +7841,36 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Cause of death",
             "type": "string",
             "constraints": {
               "enum": [
-                "X31 Exposure to excessive natural cold",
-                "X36 Victim of avalanche, landslide and other earth movements",
+                "X31 Berskjöldun fyrir náttúrulegum ofurkulda",
+                "X36 Fórnarlamb snjóflóðs, skriðu og annarar tilfærslu jarðvegs",
                 ""
               ]
             },
-            "title": "Cause of death"
+            "title": "Dánarmein"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Karl",
+                "Kona",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Kyn"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7883,13 +7883,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -7901,12 +7901,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7925,12 +7925,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7949,12 +7949,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7973,12 +7973,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -7991,13 +7991,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -8009,12 +8009,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -8027,13 +8027,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -8045,12 +8045,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -8069,38 +8069,38 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Karl",
+                "Kona",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Kyn"
           },
           {
             "name": "Position",
             "type": "string",
             "constraints": {
               "enum": [
-                "Managers",
-                "Chairmen",
-                "Board of Directors",
-                "Director of governmental agencies",
+                "Framkvæmdarstjórar",
+                "Stjórnarformenn",
+                "Stjórnarmenn",
+                "Forstöðumenn ríkisstofnana",
                 ""
               ]
             },
-            "title": "Position"
+            "title": "Staða"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -8113,13 +8113,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -8131,12 +8131,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -8155,24 +8155,24 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Karl",
+                "Kona",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Kyn"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -8185,13 +8185,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -8203,12 +8203,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -8227,12 +8227,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -8245,13 +8245,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -8263,12 +8263,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -8281,13 +8281,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -8299,12 +8299,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -8323,25 +8323,25 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Energy Source",
             "type": "string",
             "constraints": {
               "enum": [
-                "Hydro",
-                "Geothermal",
-                "Wind",
+                "Vatnsafl",
+                "Jarðvarmi",
+                "Vindafl",
                 ""
               ]
             },
-            "title": "Energy Source"
+            "title": "Uppruni"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -8360,12 +8360,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -8384,12 +8384,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -8408,41 +8408,41 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Type of Product",
             "type": "string",
             "constraints": {
               "enum": [
-                "Arms",
-                "Clothing",
-                "Industrial products",
-                "Textiles",
-                "All products",
-                "Agricultural products",
-                "Oil",
+                "Vopn",
+                "Föt",
+                "Iðnaðarvörur",
+                "Vefnaðarvara",
+                "Allar vörutegundir",
+                "Landbúnaðarvörur",
+                "Olía",
                 ""
               ]
             },
-            "title": "Type of Product"
+            "title": "Vörutegund"
           },
           {
             "name": "Status",
             "type": "string",
             "constraints": {
               "enum": [
-                "Most-favoured-nation status",
-                "Preferential Status",
+                "Bestukjaraákvæði",
+                "Ívílnunarkjör",
                 ""
               ]
             },
-            "title": "Status"
+            "title": "Staða"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -8461,36 +8461,36 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Karl",
+                "Kona",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Kyn"
           },
           {
             "name": "Level of government",
             "type": "string",
             "constraints": {
               "enum": [
-                "Parliment",
-                "Local government",
+                "Alþingi",
+                "Sveitarstjórnir",
                 ""
               ]
             },
-            "title": "Level of government"
+            "title": "Stjórnarstig"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -8509,12 +8509,12 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -8527,13 +8527,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -8545,12 +8545,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -8563,13 +8563,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -8581,12 +8581,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -8599,13 +8599,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -8617,12 +8617,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -8635,13 +8635,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -8653,12 +8653,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -8671,13 +8671,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -8689,12 +8689,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -8707,13 +8707,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -8725,12 +8725,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -8743,13 +8743,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -8761,12 +8761,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -8779,13 +8779,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Group",
@@ -8797,12 +8797,12 @@
                 ""
               ]
             },
-            "title": "Group"
+            "title": "Hópur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },
@@ -8821,12 +8821,12 @@
           {
             "name": "Year",
             "type": "number",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       },

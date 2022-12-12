@@ -13,7 +13,7 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Age group",
@@ -30,24 +30,24 @@
                 ""
               ]
             },
-            "title": "Age group"
+            "title": "Aldurshópur"
           },
           {
             "name": "Type of violence",
             "type": "string",
             "constraints": {
               "enum": [
-                "Physical violence",
-                "Sexual violence",
+                "Líkamlegt ofbeldi",
+                "Kynferðislegt ofbeldi",
                 ""
               ]
             },
-            "title": "Type of violence"
+            "title": "Tegund ofbeldis"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       }

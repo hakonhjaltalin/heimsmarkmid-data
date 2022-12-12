@@ -1,47 +1,47 @@
-Year,Group,Value
-1998,Compulsory school,82.5
-1998,Preschools,25.5
-1999,Compulsory school,83.5
-1999,Preschools,26.9
-2000,Compulsory school,80.8
-2000,Preschools,23.7
-2001,Compulsory school,79.8
-2001,Preschools,25.8
-2002,Compulsory school,80.2
-2002,Preschools,25.4
-2003,Compulsory school,81.7
-2003,Preschools,26.0
-2004,Compulsory school,85.6
-2004,Preschools,28.0
-2005,Compulsory school,86.7
-2005,Preschools,29.0
-2006,Compulsory school,85.9
-2006,Preschools,29.8
-2007,Compulsory school,84.8
-2007,Preschools,29.0
-2008,Compulsory school,84.8
-2008,Preschools,29.8
-2009,Compulsory school,91.2
-2009,Preschools,31.2
-2010,Compulsory school,92.3
-2010,Preschools,31.1
-2011,Compulsory school,95.5
-2011,Preschools,33.0
-2012,Compulsory school,95.9
-2012,Preschools,33.1
-2013,Compulsory school,95.8
-2013,Preschools,33.6
-2014,Compulsory school,95.5
-2014,Preschools,30.5
-2015,Compulsory school,94.6
-2015,Preschools,29.5
-2016,Compulsory school,94.4
-2016,Preschools,29.3
-2017,Compulsory school,91.4
-2017,Preschools,27.0
-2018,Preschools,25.9
-2018,Compulsory school,87.6
-2019,Preschools,24.7
-2019,Compulsory school,85.2
-2020,Preschools,24.0
-2020,Compulsory school,84.0
+Year,Hópur,Value
+1998,Grunnskóli,82.5
+1998,Leikskóli,25.5
+1999,Grunnskóli,83.5
+1999,Leikskóli,26.9
+2000,Grunnskóli,80.8
+2000,Leikskóli,23.7
+2001,Grunnskóli,79.8
+2001,Leikskóli,25.8
+2002,Grunnskóli,80.2
+2002,Leikskóli,25.4
+2003,Grunnskóli,81.7
+2003,Leikskóli,26.0
+2004,Grunnskóli,85.6
+2004,Leikskóli,28.0
+2005,Grunnskóli,86.7
+2005,Leikskóli,29.0
+2006,Grunnskóli,85.9
+2006,Leikskóli,29.8
+2007,Grunnskóli,84.8
+2007,Leikskóli,29.0
+2008,Grunnskóli,84.8
+2008,Leikskóli,29.8
+2009,Grunnskóli,91.2
+2009,Leikskóli,31.2
+2010,Grunnskóli,92.3
+2010,Leikskóli,31.1
+2011,Grunnskóli,95.5
+2011,Leikskóli,33.0
+2012,Grunnskóli,95.9
+2012,Leikskóli,33.1
+2013,Grunnskóli,95.8
+2013,Leikskóli,33.6
+2014,Grunnskóli,95.5
+2014,Leikskóli,30.5
+2015,Grunnskóli,94.6
+2015,Leikskóli,29.5
+2016,Grunnskóli,94.4
+2016,Leikskóli,29.3
+2017,Grunnskóli,91.4
+2017,Leikskóli,27.0
+2018,Leikskóli,25.9
+2018,Grunnskóli,87.6
+2019,Leikskóli,24.7
+2019,Grunnskóli,85.2
+2020,Leikskóli,24.0
+2020,Grunnskóli,84.0

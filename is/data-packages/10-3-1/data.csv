@@ -1,15 +1,15 @@
-Year,Status,Value
-2019,Hate crimes recorded by police,11
-2019,Prosecuted,0
-2019,Sentenced,0
-2018,Hate crimes recorded by police,7
-2018,Prosecuted,1
-2018,Sentenced,2
-2017,Hate crimes recorded by police,14
-2017,Prosecuted,1
-2017,Sentenced,3
-2016,Hate crimes recorded by police,6
-2016,Prosecuted,0
-2016,Sentenced,0
-2015,Hate crimes recorded by police,10
-2014,Hate crimes recorded by police,8
+Year,Staða,Value
+2019,Hatursglæpir sem skráðir eru hjá lögreglu,11
+2019,Lögsótt,0
+2019,Sakfellt,0
+2018,Hatursglæpir sem skráðir eru hjá lögreglu,7
+2018,Lögsótt,1
+2018,Sakfellt,2
+2017,Hatursglæpir sem skráðir eru hjá lögreglu,14
+2017,Lögsótt,1
+2017,Sakfellt,3
+2016,Hatursglæpir sem skráðir eru hjá lögreglu,6
+2016,Lögsótt,0
+2016,Sakfellt,0
+2015,Hatursglæpir sem skráðir eru hjá lögreglu,10
+2014,Hatursglæpir sem skráðir eru hjá lögreglu,8

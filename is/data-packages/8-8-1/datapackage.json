@@ -13,51 +13,51 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Fatal/non-fatal",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
-                "Fatal",
-                "non-fatal",
+                "Alls",
+                "Banvænt",
+                "Óbanvænt",
                 ""
               ]
             },
-            "title": "Fatal/non-fatal"
+            "title": "Banvænt/óbanvænt"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Both",
-                "Male",
-                "Female",
+                "Bæði",
+                "Karl",
+                "Kona",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Kyn"
           },
           {
             "name": "Nationality",
             "type": "string",
             "constraints": {
               "enum": [
-                "All",
-                "Icelandic",
-                "Foreign",
+                "Öll",
+                "Íslenskt",
+                "Erlent",
                 ""
               ]
             },
-            "title": "Nationality"
+            "title": "Þjóðerni"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       }

@@ -13,50 +13,50 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Vaccine",
             "type": "string",
             "constraints": {
               "enum": [
-                "DTP, Polio, HIB",
-                "DTP revaccination at 4 years old",
-                "DTP & Polio revaccination at 14 years old",
-                "Pneumococcal Vaccine",
-                "Meningococcal C vaccine",
-                "MMR",
-                "MMR revaccination",
+                "Barnaveiki, Stífkrampi, kíkhósti (DTP), lömunarveiki og Haemofilus influenzae b",
+                "DTP endurbólusetning",
+                "DTP og Pólíó endurbólusetning",
+                "Pneumókokkar",
+                "Meningókokkar C",
+                "Mislingar, hettusótt, rauðir hundar (MMR)",
+                "MMR endurbólusetning",
                 "HPV-1",
                 "HPV-2",
                 ""
               ]
             },
-            "title": "Vaccine"
+            "title": "Bóluefni"
           },
           {
             "name": "Vaccine - participation",
             "type": "string",
             "constraints": {
               "enum": [
-                "% Covered at 3 months old",
-                "% Covered at 5 months old",
-                "% Covered at 12 months old",
-                "% Covered at 4 years old",
-                "% Covered at 14 years old",
-                "% Covered at 6 months old",
-                "% Covered at 8 months old",
+                "% Þáttaka við 3 mánaða aldur",
+                "% Þáttaka við 5 mánaða aldur",
+                "% Þáttaka við 12 mánaða aldur",
+                "% Þáttaka við 4 ára aldur",
+                "% Þáttaka við 14 ára aldur",
+                "% Þáttaka við 6 mánaða aldur",
+                "% Þáttaka við 8 mánaða aldur",
                 "% Covered at 18 months old",
-                "% Covered at 12 years old",
+                "% Þáttaka við 12 ára aldur",
                 ""
               ]
             },
-            "title": "Vaccine - participation"
+            "title": "Þáttaka í bólusetningu"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       }

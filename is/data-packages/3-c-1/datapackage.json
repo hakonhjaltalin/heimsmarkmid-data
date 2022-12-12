@@ -13,39 +13,39 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Type of Occupation",
             "type": "string",
             "constraints": {
               "enum": [
-                "Biomedical scientists",
-                "Dental hygienists",
-                "Dental Surgery Assistants",
-                "Dentists",
-                "Environmental health officers",
-                "Exam. pharmacists",
-                "Midwives",
-                "Nurses",
-                "Occupational therapists",
-                "Pharmacists",
-                "Pharmacy technicians",
-                "Physicians and surgeons",
-                "Physiotherapists",
-                "Practical nurses",
-                "Proprietary pharmacists",
-                "Radiographers",
-                "Social workers",
+                "Lífeindafræðingar",
+                "Tannfræðingar",
+                "Tanntæknar og aðstoðarfólk tannlækna",
+                "Tannlæknar",
+                "Heilbrigðisfulltrúar",
+                "Aðstoðarlyfjafræðingar",
+                "Ljósmæður",
+                "Hjúkrunarfræðingar",
+                "Iðjuþjálfar",
+                "Lyfjafræðingar",
+                "Lyfjatæknar",
+                "Læknar",
+                "Sjúkraþjálfarar",
+                "Sjúkraliðar",
+                "Lyfsalar",
+                "Geislafræðingar",
+                "Félagsráðgjafar",
                 ""
               ]
             },
-            "title": "Type of Occupation"
+            "title": "Starfsgrein"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       }

@@ -13,28 +13,28 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "Category 1",
-                "Category 2",
-                "Category 3",
-                "Category 4",
-                "Category 5",
-                "Other (glaciers etc.)",
+                "Flokkur 1",
+                "Flokkur 2",
+                "Flokkur 3",
+                "Flokkur 4",
+                "Flokkur 5",
+                "Annað (jöklar o.fl.)",
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Flokkur"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       }

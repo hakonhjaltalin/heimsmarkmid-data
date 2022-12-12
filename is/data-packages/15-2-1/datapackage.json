@@ -13,27 +13,27 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Sub-indicator.",
             "type": "string",
             "constraints": {
               "enum": [
-                "Forest area annual net change (%)",
-                "Above-ground biomass stock in forest [ton/ha]",
-                "Proportion of forest area located within legally established protected areas [%]",
-                "Proportion of forest area under long-term forest management plan [%]",
-                "Forest area under independantely verified forest management certification schemes [1000 ha]",
+                "Árleg breyting í skógþekju (%)",
+                "Skógarlífmassi ofanjarðar [ton/ha]",
+                "Hlutfall skóglendis innan friðaðra svæða [%]",
+                "Hlutfall skóglendis í langtíma skógstýringu [%]",
+                "Skógar í vottaðri og sjálfbærri skógarstjórnun [1000 ha]",
                 ""
               ]
             },
-            "title": "Sub-indicator."
+            "title": "Hlutvísir"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       }

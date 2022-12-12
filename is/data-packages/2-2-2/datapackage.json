@@ -13,47 +13,47 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Region",
             "type": "string",
             "constraints": {
               "enum": [
-                "Capital Region",
+                "Höfuðborgarsvæðið",
                 ""
               ]
             },
-            "title": "Region"
+            "title": "Landshluti"
           },
           {
             "name": "Condition",
             "type": "string",
             "constraints": {
               "enum": [
-                "Overweight",
-                "Obese",
+                "Ofþyngd",
+                "Offita",
                 ""
               ]
             },
-            "title": "Condition"
+            "title": "Næringarfræðilegt ástand"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Karl",
+                "Kona",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Kyn"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       }

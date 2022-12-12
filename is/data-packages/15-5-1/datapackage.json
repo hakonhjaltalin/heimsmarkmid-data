@@ -13,25 +13,25 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Biota",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mammals",
-                "Birds",
-                "Vascular Plants",
+                "Spendýr",
+                "Fuglar",
+                "Plöntur",
                 ""
               ]
             },
-            "title": "Biota"
+            "title": "Lífríki"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       }

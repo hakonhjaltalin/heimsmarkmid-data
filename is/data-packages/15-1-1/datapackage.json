@@ -13,25 +13,25 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Type",
             "type": "string",
             "constraints": {
               "enum": [
-                "Forest > 5m",
-                "Forest < 5m",
-                "Total Forest cover",
+                "Skógur > 5m",
+                "Skógur < 5m",
+                "Heildar skógþekja",
                 ""
               ]
             },
-            "title": "Type"
+            "title": "Tegund"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       }

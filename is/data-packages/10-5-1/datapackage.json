@@ -13,29 +13,29 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Indicator",
             "type": "string",
             "constraints": {
               "enum": [
-                "Liquid assets to short-term liabilities",
-                "Regulatory Tier 1 capital to assets",
-                "Regulatory Tier 1 capital to risk- weighted assets",
-                "Nonperforming loans net of provisions to capital",
-                "Nonperforming loans to total gross loans",
-                "Return on assets",
-                "Net open position in foreign exchange to capital",
+                "Hlutfall lausaeigna við skammtímaskuldbindingar.",
+                "Eigið fé sem hlutfall af eignum samkvæmt reglugerðarflokki 1.",
+                "Eigið fé sem hlutfall af áhættuvegnum eignum samkvæmt reglugerðarflokki 1.",
+                "Hlutfall útlána í vanskilum af niðurfellingum lána.",
+                "Útlán í vanskilum sem hlutfall af heildar lánveitingum.",
+                "Arðsemi eigna.",
+                "Munur á erlendum eignum og skuldbindingum.",
                 ""
               ]
             },
-            "title": "Indicator"
+            "title": "Mælikvarði"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       }

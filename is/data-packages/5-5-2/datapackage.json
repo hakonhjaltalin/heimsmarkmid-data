@@ -13,38 +13,38 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Karl",
+                "Kona",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Kyn"
           },
           {
             "name": "Position",
             "type": "string",
             "constraints": {
               "enum": [
-                "Managers",
-                "Chairmen",
-                "Board of Directors",
-                "Director of governmental agencies",
+                "Framkvæmdarstjórar",
+                "Stjórnarformenn",
+                "Stjórnarmenn",
+                "Forstöðumenn ríkisstofnana",
                 ""
               ]
             },
-            "title": "Position"
+            "title": "Staða"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       }

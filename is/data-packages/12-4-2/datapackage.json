@@ -13,27 +13,27 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Type of treatment",
             "type": "string",
             "constraints": {
               "enum": [
-                "Recovery",
-                "Disposal",
+                "Endurvinnsla",
+                "Urðun",
                 ""
               ]
             },
-            "title": "Type of treatment"
+            "title": "Meðhöndlun"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Tonne per capita",
-                "Percentage of all hazardous waste",
+                "Tonn á íbúa",
+                "Hlutfall alls hættulegs úrgangs",
                 ""
               ]
             },
@@ -42,7 +42,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       }

@@ -1,73 +1,73 @@
-Year,Sex,Level of government,Value
-1953,Male,Parliment,100.0
-1953,Female,Parliment,0.0
-1956,Male,Parliment,98.1
-1956,Female,Parliment,1.9
-1959,Male,Parliment,98.1
-1959,Female,Parliment,1.9
-1963,Male,Parliment,98.3
-1963,Female,Parliment,1.7
-1967,Male,Parliment,98.3
-1967,Female,Parliment,1.7
-1971,Male,Parliment,95.0
-1971,Female,Parliment,5.0
-1974,Male,Parliment,95.0
-1974,Female,Parliment,5.0
-1978,Male,Parliment,95.0
-1978,Female,Parliment,5.0
-1979,Male,Parliment,95.0
-1979,Female,Parliment,5.0
-1983,Male,Parliment,85.0
-1983,Female,Parliment,15.0
-1987,Male,Parliment,79.4
-1987,Female,Parliment,20.6
-1991,Male,Parliment,76.2
-1991,Female,Parliment,23.8
-1995,Male,Parliment,74.6
-1995,Female,Parliment,25.4
-1999,Male,Parliment,65.1
-1999,Female,Parliment,34.9
-2003,Male,Parliment,69.8
-2003,Female,Parliment,30.2
-2007,Male,Parliment,68.3
-2007,Female,Parliment,31.7
-2009,Male,Parliment,57.1
-2009,Female,Parliment,42.9
-2013,Male,Parliment,60.3
-2013,Female,Parliment,39.7
-2016,Male,Parliment,52.4
-2016,Female,Parliment,47.6
-2017,Male,Parliment,61.9
-2017,Female,Parliment,38.1
-2022,Male,Parliment,52.4
-2022,Female,Parliment,47.6
-1962,Female,Local government,0.955690704
-1966,Female,Local government,1.553062985
-1970,Female,Local government,2.428447528
-1974,Female,Local government,3.614457831
-1978,Female,Local government,6.058020478
-1982,Female,Local government,12.41610738
-1986,Female,Local government,19.15254237
-1990,Female,Local government,21.77419355
-1994,Female,Local government,24.7706422
-1998,Female,Local government,28.17460317
-2002,Female,Local government,31.20243531
-2006,Female,Local government,35.9168242
-2010,Female,Local government,39.84375
-2014,Female,Local government,44.04761905
-2018,Female,Local government,47.01195219
-1962,Male,Local government,99.0443093
-1966,Male,Local government,98.44693701
-1970,Male,Local government,97.57155247
-1974,Male,Local government,94.23407917
-1978,Male,Local government,91.80887372
-1982,Male,Local government,87.58389262
-1986,Male,Local government,80.84745763
-1990,Male,Local government,78.22580645
-1994,Male,Local government,75.2293578
-1998,Male,Local government,71.82539683
-2002,Male,Local government,68.79756469
-2006,Male,Local government,64.0831758
-2010,Male,Local government,60.15625
-2014,Male,Local government,55.95238095
-2018,Male,Local government,52.98804781
+Year,Kyn,Stjórnarstig,Value
+1953,Karl,Alþingi,100.0
+1953,Kona,Alþingi,0.0
+1956,Karl,Alþingi,98.1
+1956,Kona,Alþingi,1.9
+1959,Karl,Alþingi,98.1
+1959,Kona,Alþingi,1.9
+1963,Karl,Alþingi,98.3
+1963,Kona,Alþingi,1.7
+1967,Karl,Alþingi,98.3
+1967,Kona,Alþingi,1.7
+1971,Karl,Alþingi,95.0
+1971,Kona,Alþingi,5.0
+1974,Karl,Alþingi,95.0
+1974,Kona,Alþingi,5.0
+1978,Karl,Alþingi,95.0
+1978,Kona,Alþingi,5.0
+1979,Karl,Alþingi,95.0
+1979,Kona,Alþingi,5.0
+1983,Karl,Alþingi,85.0
+1983,Kona,Alþingi,15.0
+1987,Karl,Alþingi,79.4
+1987,Kona,Alþingi,20.6
+1991,Karl,Alþingi,76.2
+1991,Kona,Alþingi,23.8
+1995,Karl,Alþingi,74.6
+1995,Kona,Alþingi,25.4
+1999,Karl,Alþingi,65.1
+1999,Kona,Alþingi,34.9
+2003,Karl,Alþingi,69.8
+2003,Kona,Alþingi,30.2
+2007,Karl,Alþingi,68.3
+2007,Kona,Alþingi,31.7
+2009,Karl,Alþingi,57.1
+2009,Kona,Alþingi,42.9
+2013,Karl,Alþingi,60.3
+2013,Kona,Alþingi,39.7
+2016,Karl,Alþingi,52.4
+2016,Kona,Alþingi,47.6
+2017,Karl,Alþingi,61.9
+2017,Kona,Alþingi,38.1
+2022,Karl,Alþingi,52.4
+2022,Kona,Alþingi,47.6
+1962,Kona,Sveitarstjórnir,0.955690704
+1966,Kona,Sveitarstjórnir,1.553062985
+1970,Kona,Sveitarstjórnir,2.428447528
+1974,Kona,Sveitarstjórnir,3.614457831
+1978,Kona,Sveitarstjórnir,6.058020478
+1982,Kona,Sveitarstjórnir,12.41610738
+1986,Kona,Sveitarstjórnir,19.15254237
+1990,Kona,Sveitarstjórnir,21.77419355
+1994,Kona,Sveitarstjórnir,24.7706422
+1998,Kona,Sveitarstjórnir,28.17460317
+2002,Kona,Sveitarstjórnir,31.20243531
+2006,Kona,Sveitarstjórnir,35.9168242
+2010,Kona,Sveitarstjórnir,39.84375
+2014,Kona,Sveitarstjórnir,44.04761905
+2018,Kona,Sveitarstjórnir,47.01195219
+1962,Karl,Sveitarstjórnir,99.0443093
+1966,Karl,Sveitarstjórnir,98.44693701
+1970,Karl,Sveitarstjórnir,97.57155247
+1974,Karl,Sveitarstjórnir,94.23407917
+1978,Karl,Sveitarstjórnir,91.80887372
+1982,Karl,Sveitarstjórnir,87.58389262
+1986,Karl,Sveitarstjórnir,80.84745763
+1990,Karl,Sveitarstjórnir,78.22580645
+1994,Karl,Sveitarstjórnir,75.2293578
+1998,Karl,Sveitarstjórnir,71.82539683
+2002,Karl,Sveitarstjórnir,68.79756469
+2006,Karl,Sveitarstjórnir,64.0831758
+2010,Karl,Sveitarstjórnir,60.15625
+2014,Karl,Sveitarstjórnir,55.95238095
+2018,Karl,Sveitarstjórnir,52.98804781

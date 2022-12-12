@@ -13,25 +13,25 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Connection type",
             "type": "string",
             "constraints": {
               "enum": [
-                "Equal to or above 10 Mbit/s",
-                "256 kbit/s to less than 2 Mbit/s",
-                "2 Mbit/s to less than 10 Mbit/s",
+                "Jafnt eða yfir 10 Mbit/s",
+                "256 kbit/s til minna en 2 Mbit/s",
+                "2 Mbit/s til minna en 10 Mbit/s",
                 ""
               ]
             },
-            "title": "Connection type"
+            "title": "Tegund tengingu"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       }

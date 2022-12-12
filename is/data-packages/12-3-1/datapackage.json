@@ -13,67 +13,67 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Waste type",
             "type": "string",
             "constraints": {
               "enum": [
-                "Edible food and inedible waste",
-                "Edible food",
+                "Matur og óætur úrgangur",
+                "Matur",
                 ""
               ]
             },
-            "title": "Waste type"
+            "title": "Tegund úrgangs"
           },
           {
             "name": "Waste origin",
             "type": "string",
             "constraints": {
               "enum": [
-                "Household",
-                "Supply chain",
+                "Heimili",
+                "Fyrirtæki",
                 ""
               ]
             },
-            "title": "Waste origin"
+            "title": "Uppruni úrgangs"
           },
           {
             "name": "Sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "Agriculture (01)",
-                "Wholesale (46)",
-                "Retail (47)",
-                "Accommodation (55)",
-                "Food and beverage service (56)",
-                "Education (P)",
-                "Meat processing (10.1)",
-                "Processing of fruit and vegetables (10.3)",
-                "Manufacture of oil and fat (10.4)",
-                "Manufacture of bakery and farinaceous products (10.7)",
-                "Health institutions (86)",
-                "Nursing homes (87)",
-                "Meat processing (03)",
-                "Manufacture of dairy products (10.5)",
-                "Manufacture of other food products (10.8)",
-                "Manufacture of beverages (11)",
-                "Wholesale and retail (46 and 47)",
+                "Landbúnaður (01)",
+                "Heildsala (46)",
+                "Smásala (47)",
+                "Gistiþjónusta (55)",
+                "Veitingaþjónusta (56)",
+                "Fræðslustarfsemi (P)",
+                "Kjötvinnsla (10.1)",
+                "Ávaxta- og grænmetisvinnsla (10.3)",
+                "Framleiðsla olíu og feiti (10.4)",
+                "Framleiðsla bökunarvara (10.7)",
+                "Heilbrigðisstofnanir (86)",
+                "Öldrunarheimili (87)",
+                "Kjötvinnsla (03)",
+                "Framleiðsla mjólkurvara (10.5)",
+                "Framleiðsla annara matvæla (10.8)",
+                "Framleiðsla drykkjavara (11)",
+                "Heildsala og smásala (46 og 47)",
                 "Education (85)",
                 ""
               ]
             },
-            "title": "Sector"
+            "title": "Atvinnugrein"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Tonnes",
-                "Kg per person",
+                "Tonn",
+                "Kg á íbúa",
                 ""
               ]
             },
@@ -82,7 +82,7 @@
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       }

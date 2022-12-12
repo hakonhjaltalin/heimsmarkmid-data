@@ -13,60 +13,60 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Karl",
+                "Kona",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Kyn"
           },
           {
             "name": "Sector",
             "type": "string",
             "constraints": {
               "enum": [
-                "Total - excluding public administration (O)",
-                "Private sector",
-                "Public sector, total",
-                "Public sector, central government",
-                "Public sector, local government",
-                "Full-time",
-                "Part-time",
-                "Manufacturing (C)",
-                "Electricity, gas, steam, and air conditioning supply (D)",
-                "Wholesale and retail trade; repair of motor vehicles (G)",
-                "Transportation and storage (H)",
-                "Information and communication (J)",
-                "Accomodation and food services (I)",
-                "Financial and insurance activities (K)",
-                "Public administration and defence; compulsory social sec. (O)",
-                "Education (P)",
-                "Human health and social work activities (Q)",
-                "Managers (1)",
-                "Professionals (2)",
-                "Technicians and associate professionals (3)",
-                "Clerks (4)",
-                "Service workers and shop and market sales workers (5)",
-                "Craft and related workers (7)",
-                "Plant and machine operators and assemblers (8)",
-                "Elementary occupations (9)",
-                "General, machine and specialized workers",
+                "Alls - án opinberrar stjórnsýslu (O)",
+                "Almennur vinnumarkaður",
+                "Opinberir starfsmenn",
+                "Opinberir starfsmenn - ríkisstarfsmenn",
+                "Opinberir starfsmenn - starfsmenn sveitarfélaga",
+                "Fullvinnandi",
+                "Hlutastarfsfólk",
+                "Framleiðsla (C)",
+                "Rafmagns-, gas- og hitaveitur (D)",
+                "Heild- og smásöluverslun, viðgerðir á vélknúnum ökutækjum (G)",
+                "Flutningar og geymsla (H)",
+                "Upplýsingar og fjarskipti (J)",
+                "Rekstur gististaða og veitingarekstur (I)",
+                "Fjármála- og vátryggingastarfsemi (K)",
+                "Opinber stjórnsýsla og varnarmál; almannatryggingar (O)",
+                "Fræðslustarfsemi (P)",
+                "Heilbrigðis- og félagsþjónusta (Q)",
+                "Stjórnendur (1)",
+                "Sérfræðingar (2)",
+                "Tæknar og sérmenntað starfsfólk (3)",
+                "Skrifstofufólk (4)",
+                "Þjónustu-, sölu- og afgreiðslufólk (5)",
+                "Iðnaðarmenn og sérhæft iðnverkafólk (7)",
+                "Véla- og vélgæslufólk (8)",
+                "Ósérhæft starfsfólk (9)",
+                "Verkafólk",
                 ""
               ]
             },
-            "title": "Sector"
+            "title": "Atvinnugrein"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       }

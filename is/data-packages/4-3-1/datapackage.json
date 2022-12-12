@@ -13,19 +13,19 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Education Category",
             "type": "string",
             "constraints": {
               "enum": [
-                "Formal",
-                "Non-Formal",
+                "Formlegt",
+                "Óformlegt",
                 ""
               ]
             },
-            "title": "Education Category"
+            "title": "Tegund náms"
           },
           {
             "name": "Age",
@@ -37,24 +37,24 @@
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Aldur"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Karl",
+                "Kona",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Kyn"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       }

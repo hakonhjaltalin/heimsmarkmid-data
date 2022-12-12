@@ -13,38 +13,38 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "Kona",
+                "Karl",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Kyn"
           },
           {
             "name": "Living condition",
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary homeless",
-                "Secondary homeless",
-                "Poor housing conditions",
-                "Overcrowding",
+                "Útigangsfólk",
+                "Fólk í húsnæðishraki",
+                "Lélegt ástand húsnæðis",
+                "Þéttbýli",
                 ""
               ]
             },
-            "title": "Living condition"
+            "title": "Húsnæðisaðstæður"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       }

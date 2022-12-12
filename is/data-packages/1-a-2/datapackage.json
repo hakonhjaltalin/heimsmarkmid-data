@@ -13,15 +13,15 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage (%) of national budget",
-                "Percentage (%) of Gross Domestic Product (GDP)",
+                "Hlutfall af heildarútgjöldum hins opinbera",
+                "Hlutfall (%) af vergri þjóðarframleiðslu (GDP)",
                 ""
               ]
             },
@@ -32,18 +32,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Health",
-                "Social Protection",
-                "Education",
+                "Heilbrigðismál",
+                "Félagsvernd",
+                "Menntun",
                 ""
               ]
             },
-            "title": "Area of Spending Category"
+            "title": "Útgjaldaliður"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       }

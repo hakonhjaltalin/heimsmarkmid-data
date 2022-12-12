@@ -13,50 +13,50 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "5 years and younger",
-                "6 - 12 years",
-                "13 - 18 years",
-                "Total",
+                "5 ára og yngri",
+                "6 - 12 ára",
+                "13 - 18 ára",
+                "Alls",
                 ""
               ]
             },
-            "title": "Age"
+            "title": "Aldur"
           },
           {
             "name": "Gender",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Karl",
+                "Kona",
                 ""
               ]
             },
-            "title": "Gender"
+            "title": "Kyn"
           },
           {
             "name": "Nationality",
             "type": "string",
             "constraints": {
               "enum": [
-                "Foreign",
-                "Icelandic",
+                "Erlent",
+                "Íslenskt",
                 ""
               ]
             },
-            "title": "Nationality"
+            "title": "Þjóðerni"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       }

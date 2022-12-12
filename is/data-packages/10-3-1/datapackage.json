@@ -13,25 +13,25 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Status",
             "type": "string",
             "constraints": {
               "enum": [
-                "Hate crimes recorded by police",
-                "Prosecuted",
-                "Sentenced",
+                "Hatursglæpir sem skráðir eru hjá lögreglu",
+                "Lögsótt",
+                "Sakfellt",
                 ""
               ]
             },
-            "title": "Status"
+            "title": "Staða"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       }

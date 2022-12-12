@@ -13,28 +13,28 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Organization",
             "type": "string",
             "constraints": {
               "enum": [
-                "World Trade Organization",
-                "International Bank for Reconstruction and Development",
-                "UN General Assembly",
-                "International Monetary Fund",
-                "International Finanace Corporation",
-                "UN Econonomic and Social Council",
+                "Alþjóðaviðskiptastofnunin (WTO)",
+                "Alþjóðabankinn (IBRD)",
+                "Alsherjaþing Sameinuðu Þjóðanna (UNGA)",
+                "Alþjóðagjaldeyrissjóðurinn (IMF)",
+                "Alþjóða lánastofnunin (IFC)",
+                "Efnahags- og félagsmálaráð Sameinuðu Þjóðanna (UN ECOSOC)",
                 ""
               ]
             },
-            "title": "Organization"
+            "title": "Stofnun"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       }

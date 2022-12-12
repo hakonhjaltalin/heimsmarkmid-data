@@ -1,104 +1,104 @@
-Year,Disease,Value
-1996,Cancer,202.64
-1997,Cancer,197.13
-1998,Cancer,185.77
-1999,Cancer,192.59
-2000,Cancer,179.18
-2001,Cancer,173.63
-2002,Cancer,180.06
-2003,Cancer,174.02
-2004,Cancer,179.65
-2005,Cancer,178.83
-2006,Cancer,168.06
-2007,Cancer,190.14
-2008,Cancer,180.37
-2009,Cancer,180.67
-2010,Cancer,183.55
-2011,Cancer,187.47
-2012,Cancer,185.56
-2013,Cancer,185.8
-2014,Cancer,192.53
-2015,Cancer,184.75
-2016,Cancer,204.79
-2017,Cancer,176.74
-2018,Cancer,169.9
-2019,Cancer,179.84
-2020,Cancer,173.29
-1996,Diabetes,8.21
-1997,Diabetes,5.56
-1998,Diabetes,9.2
-1999,Diabetes,9.18
-2000,Diabetes,6.81
-2001,Diabetes,9.53
-2002,Diabetes,5.23
-2003,Diabetes,7.97
-2004,Diabetes,7.23
-2005,Diabetes,7.15
-2006,Diabetes,9.0
-2007,Diabetes,8.45
-2008,Diabetes,8.24
-2009,Diabetes,8.45
-2010,Diabetes,7.56
-2011,Diabetes,5.97
-2012,Diabetes,7.2
-2013,Diabetes,10.25
-2014,Diabetes,8.29
-2015,Diabetes,6.99
-2016,Diabetes,9.62
-2017,Diabetes,10.94
-2018,Diabetes,10.62
-2019,Diabetes,8.4
-2020,Diabetes,9.06
-1996,Cardiovascular disease,288.48
-1997,Cardiovascular disease,280.87
-1998,Cardiovascular disease,271.68
-1999,Cardiovascular disease,287.26
-2000,Cardiovascular disease,256.94
-2001,Cardiovascular disease,240.68
-2002,Cardiovascular disease,259.97
-2003,Cardiovascular disease,253.41
-2004,Cardiovascular disease,251.92
-2005,Cardiovascular disease,223.45
-2006,Cardiovascular disease,238.75
-2007,Cardiovascular disease,223.94
-2008,Cardiovascular disease,223.8
-2009,Cardiovascular disease,228.26
-2010,Cardiovascular disease,227.94
-2011,Cardiovascular disease,216.36
-2012,Cardiovascular disease,205.27
-2013,Cardiovascular disease,221.22
-2014,Cardiovascular disease,206.96
-2015,Cardiovascular disease,226.68
-2016,Cardiovascular disease,221.63
-2017,Cardiovascular disease,204.52
-2018,Cardiovascular disease,188.26
-2019,Cardiovascular disease,196.36
-2020,Cardiovascular disease,187.84
-1996,Chronic respiratory disease,36.57
-1997,Chronic respiratory disease,27.42
-1998,Chronic respiratory disease,30.84
-1999,Chronic respiratory disease,33.73
-2000,Chronic respiratory disease,32.61
-2001,Chronic respiratory disease,28.59
-2002,Chronic respiratory disease,33.15
-2003,Chronic respiratory disease,31.2
-2004,Chronic respiratory disease,28.91
-2005,Chronic respiratory disease,31.34
-2006,Chronic respiratory disease,31.34
-2007,Chronic respiratory disease,34.78
-2008,Chronic respiratory disease,30.75
-2009,Chronic respiratory disease,36.32
-2010,Chronic respiratory disease,37.78
-2011,Chronic respiratory disease,32.03
-2012,Chronic respiratory disease,31.29
-2013,Chronic respiratory disease,32.62
-2014,Chronic respiratory disease,29.78
-2015,Chronic respiratory disease,31.3
-2016,Chronic respiratory disease,36.09
-2017,Chronic respiratory disease,39.9
-2018,Chronic respiratory disease,40.18
-2019,Chronic respiratory disease,28.29
-2020,Chronic respiratory disease,31.86
+Year,Sjúkdómur,Value
+1996,Krabbamein,202.64
+1997,Krabbamein,197.13
+1998,Krabbamein,185.77
+1999,Krabbamein,192.59
+2000,Krabbamein,179.18
+2001,Krabbamein,173.63
+2002,Krabbamein,180.06
+2003,Krabbamein,174.02
+2004,Krabbamein,179.65
+2005,Krabbamein,178.83
+2006,Krabbamein,168.06
+2007,Krabbamein,190.14
+2008,Krabbamein,180.37
+2009,Krabbamein,180.67
+2010,Krabbamein,183.55
+2011,Krabbamein,187.47
+2012,Krabbamein,185.56
+2013,Krabbamein,185.8
+2014,Krabbamein,192.53
+2015,Krabbamein,184.75
+2016,Krabbamein,204.79
+2017,Krabbamein,176.74
+2018,Krabbamein,169.9
+2019,Krabbamein,179.84
+2020,Krabbamein,173.29
+1996,Sykursýki,8.21
+1997,Sykursýki,5.56
+1998,Sykursýki,9.2
+1999,Sykursýki,9.18
+2000,Sykursýki,6.81
+2001,Sykursýki,9.53
+2002,Sykursýki,5.23
+2003,Sykursýki,7.97
+2004,Sykursýki,7.23
+2005,Sykursýki,7.15
+2006,Sykursýki,9.0
+2007,Sykursýki,8.45
+2008,Sykursýki,8.24
+2009,Sykursýki,8.45
+2010,Sykursýki,7.56
+2011,Sykursýki,5.97
+2012,Sykursýki,7.2
+2013,Sykursýki,10.25
+2014,Sykursýki,8.29
+2015,Sykursýki,6.99
+2016,Sykursýki,9.62
+2017,Sykursýki,10.94
+2018,Sykursýki,10.62
+2019,Sykursýki,8.4
+2020,Sykursýki,9.06
+1996,Hjarta- og æðasjúkdómar,288.48
+1997,Hjarta- og æðasjúkdómar,280.87
+1998,Hjarta- og æðasjúkdómar,271.68
+1999,Hjarta- og æðasjúkdómar,287.26
+2000,Hjarta- og æðasjúkdómar,256.94
+2001,Hjarta- og æðasjúkdómar,240.68
+2002,Hjarta- og æðasjúkdómar,259.97
+2003,Hjarta- og æðasjúkdómar,253.41
+2004,Hjarta- og æðasjúkdómar,251.92
+2005,Hjarta- og æðasjúkdómar,223.45
+2006,Hjarta- og æðasjúkdómar,238.75
+2007,Hjarta- og æðasjúkdómar,223.94
+2008,Hjarta- og æðasjúkdómar,223.8
+2009,Hjarta- og æðasjúkdómar,228.26
+2010,Hjarta- og æðasjúkdómar,227.94
+2011,Hjarta- og æðasjúkdómar,216.36
+2012,Hjarta- og æðasjúkdómar,205.27
+2013,Hjarta- og æðasjúkdómar,221.22
+2014,Hjarta- og æðasjúkdómar,206.96
+2015,Hjarta- og æðasjúkdómar,226.68
+2016,Hjarta- og æðasjúkdómar,221.63
+2017,Hjarta- og æðasjúkdómar,204.52
+2018,Hjarta- og æðasjúkdómar,188.26
+2019,Hjarta- og æðasjúkdómar,196.36
+2020,Hjarta- og æðasjúkdómar,187.84
+1996,langvinnir öndunarfærasjúkdómar,36.57
+1997,langvinnir öndunarfærasjúkdómar,27.42
+1998,langvinnir öndunarfærasjúkdómar,30.84
+1999,langvinnir öndunarfærasjúkdómar,33.73
+2000,langvinnir öndunarfærasjúkdómar,32.61
+2001,langvinnir öndunarfærasjúkdómar,28.59
+2002,langvinnir öndunarfærasjúkdómar,33.15
+2003,langvinnir öndunarfærasjúkdómar,31.2
+2004,langvinnir öndunarfærasjúkdómar,28.91
+2005,langvinnir öndunarfærasjúkdómar,31.34
+2006,langvinnir öndunarfærasjúkdómar,31.34
+2007,langvinnir öndunarfærasjúkdómar,34.78
+2008,langvinnir öndunarfærasjúkdómar,30.75
+2009,langvinnir öndunarfærasjúkdómar,36.32
+2010,langvinnir öndunarfærasjúkdómar,37.78
+2011,langvinnir öndunarfærasjúkdómar,32.03
+2012,langvinnir öndunarfærasjúkdómar,31.29
+2013,langvinnir öndunarfærasjúkdómar,32.62
+2014,langvinnir öndunarfærasjúkdómar,29.78
+2015,langvinnir öndunarfærasjúkdómar,31.3
+2016,langvinnir öndunarfærasjúkdómar,36.09
+2017,langvinnir öndunarfærasjúkdómar,39.9
+2018,langvinnir öndunarfærasjúkdómar,40.18
+2019,langvinnir öndunarfærasjúkdómar,28.29
+2020,langvinnir öndunarfærasjúkdómar,31.86
 1996,,535.9
 1997,,510.98
 1998,,497.46

@@ -13,24 +13,24 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Unit",
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage of GDP",
-                "Percentage of fuel imports",
+                "Hlutfall (%) af vergri þjóðarframleiðslu",
+                "Hlutfall (%) af eldsneytisinnflutningi",
                 ""
               ]
             },
-            "title": "Unit"
+            "title": "Eining"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       }

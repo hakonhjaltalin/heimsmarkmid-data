@@ -13,27 +13,27 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Ár"
           },
           {
             "name": "Index",
             "type": "string",
             "constraints": {
               "enum": [
-                "Reading attainment at age 9",
-                "Reading attainment at age 15",
-                "Math attainment at age 15",
-                "Participation rate in formal education",
-                "Participation rate in  non-formal education",
+                "Lestrarfærni við 9 ára aldur",
+                "Lestrarfærni við 15 ára aldur",
+                "Reiknifærni við 15 ára aldur",
+                "Þáttökuhlutfall í formlegu námi",
+                "Þáttökuhlutfall í óformlegu námi",
                 ""
               ]
             },
-            "title": "Index"
+            "title": "Jöfnuðarvísir"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Gildi"
           }
         ]
       }

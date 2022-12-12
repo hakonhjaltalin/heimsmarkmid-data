@@ -1,69 +1,69 @@
-Year,Waste type,Waste origin,Sector,Units,Value
-2016,Edible food and inedible waste,Household,,Tonnes,93959.0
-2019,Edible food and inedible waste,Household,,Tonnes,32785.0
-2016,Edible food and inedible waste,Supply chain,,Tonnes,83240.0
-2019,Edible food and inedible waste,Supply chain,,Tonnes,40845.51
-2016,Edible food and inedible waste,Supply chain,Agriculture (01),Tonnes,1081.9
-2016,Edible food and inedible waste,Supply chain,Wholesale (46),Tonnes,716.26
-2016,Edible food and inedible waste,Supply chain,Retail (47),Tonnes,3749.0
-2016,Edible food and inedible waste,Supply chain,Accommodation (55),Tonnes,474.2
-2016,Edible food and inedible waste,Supply chain,Food and beverage service (56),Tonnes,40255.8
-2016,Edible food and inedible waste,Supply chain,Education (P),Tonnes,4018.1
-2016,Edible food and inedible waste,Supply chain,Meat processing (10.1),Tonnes,0.0
-2016,Edible food and inedible waste,Supply chain,Processing of fruit and vegetables (10.3),Tonnes,0.0
-2016,Edible food and inedible waste,Supply chain,Manufacture of oil and fat (10.4),Tonnes,19.3
-2016,Edible food and inedible waste,Supply chain,Manufacture of bakery and farinaceous products (10.7),Tonnes,0.0
-2016,Edible food and inedible waste,Supply chain,Health institutions (86),Tonnes,170.4
-2016,Edible food and inedible waste,Supply chain,Nursing homes (87),Tonnes,185.8
-2019,Edible food and inedible waste,Supply chain,Agriculture (01),Tonnes,0.0
-2019,Edible food and inedible waste,Supply chain,Meat processing (03),Tonnes,22807.8
-2019,Edible food and inedible waste,Supply chain,Processing of fruit and vegetables (10.3),Tonnes,8.74
-2019,Edible food and inedible waste,Supply chain,Manufacture of oil and fat (10.4),Tonnes,0.0
-2019,Edible food and inedible waste,Supply chain,Manufacture of dairy products (10.5),Tonnes,0.0
-2019,Edible food and inedible waste,Supply chain,Manufacture of bakery and farinaceous products (10.7),Tonnes,298.5
-2019,Edible food and inedible waste,Supply chain,Manufacture of other food products (10.8),Tonnes,1.5
-2019,Edible food and inedible waste,Supply chain,Manufacture of beverages (11),Tonnes,0.0
-2019,Edible food and inedible waste,Supply chain,Wholesale and retail (46 and 47),Tonnes,2418.7
-2019,Edible food and inedible waste,Supply chain,Accommodation (55),Tonnes,4918.8
-2019,Edible food and inedible waste,Supply chain,Food and beverage service (56),Tonnes,6346.5
-2019,Edible food and inedible waste,Supply chain,Education (85),Tonnes,3581.7
-2019,Edible food and inedible waste,Supply chain,Health institutions (86),Tonnes,136.77
-2019,Edible food and inedible waste,Supply chain,Nursing homes (87),Tonnes,326.5
-2016,Edible food and inedible waste,Household,,Kg per person,283.0
-2019,Edible food and inedible waste,Household,,Kg per person,90.3
-2016,Edible food and inedible waste,Supply chain,,Kg per person,250.3240319
-2019,Edible food and inedible waste,Supply chain,,Kg per person,112.6
-2016,Edible food,Household,,Tonnes,7649.0
-2016,Edible food,Household,,Tonnes,7152.2
-2016,Edible food,Supply chain,,Tonnes,42378.61
-2019,Edible food,Supply chain,,Tonnes,9654.15
-2016,Edible food,Supply chain,Agriculture (01),Tonnes,253.3
-2016,Edible food,Supply chain,Wholesale (46),Tonnes,0.41
-2016,Edible food,Supply chain,Retail (47),Tonnes,1310.0
-2016,Edible food,Supply chain,Accommodation (55),Tonnes,7.4
-2016,Edible food,Supply chain,Food and beverage service (56),Tonnes,29724.0
-2016,Edible food,Supply chain,Education (P),Tonnes,2428.0
-2016,Edible food,Supply chain,Meat processing (10.1),Tonnes,5859.0
-2016,Edible food,Supply chain,Processing of fruit and vegetables (10.3),Tonnes,3.6
-2016,Edible food,Supply chain,Manufacture of oil and fat (10.4),Tonnes,0.0
-2016,Edible food,Supply chain,Manufacture of bakery and farinaceous products (10.7),Tonnes,2672.1
-2016,Edible food,Supply chain,Health institutions (86),Tonnes,0.0
-2016,Edible food,Supply chain,Nursing homes (87),Tonnes,120.8
-2019,Edible food,Supply chain,Agriculture (01),Tonnes,0.0
-2019,Edible food,Supply chain,Meat processing (03),Tonnes,22807.8
-2019,Edible food,Supply chain,Processing of fruit and vegetables (10.3),Tonnes,8.74
-2019,Edible food,Supply chain,Manufacture of oil and fat (10.4),Tonnes,0.0
-2019,Edible food,Supply chain,Manufacture of dairy products (10.5),Tonnes,0.0
-2019,Edible food,Supply chain,Manufacture of bakery and farinaceous products (10.7),Tonnes,298.5
-2019,Edible food,Supply chain,Manufacture of other food products (10.8),Tonnes,1.5
-2019,Edible food,Supply chain,Manufacture of beverages (11),Tonnes,0.0
-2019,Edible food,Supply chain,Wholesale and retail (46 and 47),Tonnes,2418.7
-2019,Edible food,Supply chain,Accommodation (55),Tonnes,4918.8
-2019,Edible food,Supply chain,Food and beverage service (56),Tonnes,6346.5
-2019,Edible food,Supply chain,Education (85),Tonnes,3581.7
-2019,Edible food,Supply chain,Health institutions (86),Tonnes,136.77
-2019,Edible food,Supply chain,Nursing homes (87),Tonnes,326.5
-2016,Edible food,Household,,Kg per person,23.0
-2019,Edible food,Household,,Kg per person,19.7
-2016,Edible food,Supply chain,,Kg per person,127.4433508
-2019,Edible food,Supply chain,,Kg per person,26.6
+Year,Tegund úrgangs,Uppruni úrgangs,Atvinnugrein,Units,Value
+2016,Matur og óætur úrgangur,Heimili,,Tonn,93959.0
+2019,Matur og óætur úrgangur,Heimili,,Tonn,32785.0
+2016,Matur og óætur úrgangur,Fyrirtæki,,Tonn,83240.0
+2019,Matur og óætur úrgangur,Fyrirtæki,,Tonn,40845.51
+2016,Matur og óætur úrgangur,Fyrirtæki,Landbúnaður (01),Tonn,1081.9
+2016,Matur og óætur úrgangur,Fyrirtæki,Heildsala (46),Tonn,716.26
+2016,Matur og óætur úrgangur,Fyrirtæki,Smásala (47),Tonn,3749.0
+2016,Matur og óætur úrgangur,Fyrirtæki,Gistiþjónusta (55),Tonn,474.2
+2016,Matur og óætur úrgangur,Fyrirtæki,Veitingaþjónusta (56),Tonn,40255.8
+2016,Matur og óætur úrgangur,Fyrirtæki,Fræðslustarfsemi (P),Tonn,4018.1
+2016,Matur og óætur úrgangur,Fyrirtæki,Kjötvinnsla (10.1),Tonn,0.0
+2016,Matur og óætur úrgangur,Fyrirtæki,Ávaxta- og grænmetisvinnsla (10.3),Tonn,0.0
+2016,Matur og óætur úrgangur,Fyrirtæki,Framleiðsla olíu og feiti (10.4),Tonn,19.3
+2016,Matur og óætur úrgangur,Fyrirtæki,Framleiðsla bökunarvara (10.7),Tonn,0.0
+2016,Matur og óætur úrgangur,Fyrirtæki,Heilbrigðisstofnanir (86),Tonn,170.4
+2016,Matur og óætur úrgangur,Fyrirtæki,Öldrunarheimili (87),Tonn,185.8
+2019,Matur og óætur úrgangur,Fyrirtæki,Landbúnaður (01),Tonn,0.0
+2019,Matur og óætur úrgangur,Fyrirtæki,Kjötvinnsla (03),Tonn,22807.8
+2019,Matur og óætur úrgangur,Fyrirtæki,Ávaxta- og grænmetisvinnsla (10.3),Tonn,8.74
+2019,Matur og óætur úrgangur,Fyrirtæki,Framleiðsla olíu og feiti (10.4),Tonn,0.0
+2019,Matur og óætur úrgangur,Fyrirtæki,Framleiðsla mjólkurvara (10.5),Tonn,0.0
+2019,Matur og óætur úrgangur,Fyrirtæki,Framleiðsla bökunarvara (10.7),Tonn,298.5
+2019,Matur og óætur úrgangur,Fyrirtæki,Framleiðsla annara matvæla (10.8),Tonn,1.5
+2019,Matur og óætur úrgangur,Fyrirtæki,Framleiðsla drykkjavara (11),Tonn,0.0
+2019,Matur og óætur úrgangur,Fyrirtæki,Heildsala og smásala (46 og 47),Tonn,2418.7
+2019,Matur og óætur úrgangur,Fyrirtæki,Gistiþjónusta (55),Tonn,4918.8
+2019,Matur og óætur úrgangur,Fyrirtæki,Veitingaþjónusta (56),Tonn,6346.5
+2019,Matur og óætur úrgangur,Fyrirtæki,Education (85),Tonn,3581.7
+2019,Matur og óætur úrgangur,Fyrirtæki,Heilbrigðisstofnanir (86),Tonn,136.77
+2019,Matur og óætur úrgangur,Fyrirtæki,Öldrunarheimili (87),Tonn,326.5
+2016,Matur og óætur úrgangur,Heimili,,Kg á íbúa,283.0
+2019,Matur og óætur úrgangur,Heimili,,Kg á íbúa,90.3
+2016,Matur og óætur úrgangur,Fyrirtæki,,Kg á íbúa,250.3240319
+2019,Matur og óætur úrgangur,Fyrirtæki,,Kg á íbúa,112.6
+2016,Matur,Heimili,,Tonn,7649.0
+2016,Matur,Heimili,,Tonn,7152.2
+2016,Matur,Fyrirtæki,,Tonn,42378.61
+2019,Matur,Fyrirtæki,,Tonn,9654.15
+2016,Matur,Fyrirtæki,Landbúnaður (01),Tonn,253.3
+2016,Matur,Fyrirtæki,Heildsala (46),Tonn,0.41
+2016,Matur,Fyrirtæki,Smásala (47),Tonn,1310.0
+2016,Matur,Fyrirtæki,Gistiþjónusta (55),Tonn,7.4
+2016,Matur,Fyrirtæki,Veitingaþjónusta (56),Tonn,29724.0
+2016,Matur,Fyrirtæki,Fræðslustarfsemi (P),Tonn,2428.0
+2016,Matur,Fyrirtæki,Kjötvinnsla (10.1),Tonn,5859.0
+2016,Matur,Fyrirtæki,Ávaxta- og grænmetisvinnsla (10.3),Tonn,3.6
+2016,Matur,Fyrirtæki,Framleiðsla olíu og feiti (10.4),Tonn,0.0
+2016,Matur,Fyrirtæki,Framleiðsla bökunarvara (10.7),Tonn,2672.1
+2016,Matur,Fyrirtæki,Heilbrigðisstofnanir (86),Tonn,0.0
+2016,Matur,Fyrirtæki,Öldrunarheimili (87),Tonn,120.8
+2019,Matur,Fyrirtæki,Landbúnaður (01),Tonn,0.0
+2019,Matur,Fyrirtæki,Kjötvinnsla (03),Tonn,22807.8
+2019,Matur,Fyrirtæki,Ávaxta- og grænmetisvinnsla (10.3),Tonn,8.74
+2019,Matur,Fyrirtæki,Framleiðsla olíu og feiti (10.4),Tonn,0.0
+2019,Matur,Fyrirtæki,Framleiðsla mjólkurvara (10.5),Tonn,0.0
+2019,Matur,Fyrirtæki,Framleiðsla bökunarvara (10.7),Tonn,298.5
+2019,Matur,Fyrirtæki,Framleiðsla annara matvæla (10.8),Tonn,1.5
+2019,Matur,Fyrirtæki,Framleiðsla drykkjavara (11),Tonn,0.0
+2019,Matur,Fyrirtæki,Heildsala og smásala (46 og 47),Tonn,2418.7
+2019,Matur,Fyrirtæki,Gistiþjónusta (55),Tonn,4918.8
+2019,Matur,Fyrirtæki,Veitingaþjónusta (56),Tonn,6346.5
+2019,Matur,Fyrirtæki,Education (85),Tonn,3581.7
+2019,Matur,Fyrirtæki,Heilbrigðisstofnanir (86),Tonn,136.77
+2019,Matur,Fyrirtæki,Öldrunarheimili (87),Tonn,326.5
+2016,Matur,Heimili,,Kg á íbúa,23.0
+2019,Matur,Heimili,,Kg á íbúa,19.7
+2016,Matur,Fyrirtæki,,Kg á íbúa,127.4433508
+2019,Matur,Fyrirtæki,,Kg á íbúa,26.6
