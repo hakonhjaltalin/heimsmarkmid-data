@@ -17,6 +17,7 @@ Year,Tegund náms,Aldur,Kyn,Value
 2018,Formlegt,16-24,,56.5
 2019,Formlegt,16-24,,60.9
 2020,Formlegt,16-24,,62.9
+2021,Formlegt,16-24,,62.4
 2003,Formlegt,16-24,Karl,56.5
 2004,Formlegt,16-24,Karl,60.0
 2005,Formlegt,16-24,Karl,58.2
@@ -35,6 +36,7 @@ Year,Tegund náms,Aldur,Kyn,Value
 2018,Formlegt,16-24,Karl,52.2
 2019,Formlegt,16-24,Karl,55.4
 2020,Formlegt,16-24,Karl,58.4
+2021,Formlegt,16-24,Karl,58.0
 2003,Formlegt,16-24,Kona,60.1
 2004,Formlegt,16-24,Kona,62.0
 2005,Formlegt,16-24,Kona,66.7
@@ -53,6 +55,7 @@ Year,Tegund náms,Aldur,Kyn,Value
 2018,Formlegt,16-24,Kona,61.2
 2019,Formlegt,16-24,Kona,66.8
 2020,Formlegt,16-24,Kona,67.8
+2021,Formlegt,16-24,Kona,67.2
 2003,Formlegt,25-64,,8.7
 2004,Formlegt,25-64,,9.9
 2005,Formlegt,25-64,,10.0
@@ -71,6 +74,7 @@ Year,Tegund náms,Aldur,Kyn,Value
 2018,Formlegt,25-64,,9.1
 2019,Formlegt,25-64,,9.3
 2020,Formlegt,25-64,,10.4
+2021,Formlegt,25-64,,10.3
 2003,Formlegt,25-64,Karl,6.1
 2004,Formlegt,25-64,Karl,7.2
 2005,Formlegt,25-64,Karl,6.9
@@ -89,6 +93,7 @@ Year,Tegund náms,Aldur,Kyn,Value
 2018,Formlegt,25-64,Karl,7.4
 2019,Formlegt,25-64,Karl,7.7
 2020,Formlegt,25-64,Karl,8.3
+2021,Formlegt,25-64,Karl,7.6
 2003,Formlegt,25-64,Kona,11.4
 2004,Formlegt,25-64,Kona,12.7
 2005,Formlegt,25-64,Kona,13.2
@@ -107,6 +112,7 @@ Year,Tegund náms,Aldur,Kyn,Value
 2018,Formlegt,25-64,Kona,10.8
 2019,Formlegt,25-64,Kona,10.9
 2020,Formlegt,25-64,Kona,12.6
+2021,Formlegt,25-64,Kona,13.2
 2003,Óformlegt,16-24,,9.1
 2004,Óformlegt,16-24,,8.6
 2005,Óformlegt,16-24,,10.3
@@ -125,6 +131,7 @@ Year,Tegund náms,Aldur,Kyn,Value
 2018,Óformlegt,16-24,,7.3
 2019,Óformlegt,16-24,,7.2
 2020,Óformlegt,16-24,,6.0
+2021,Óformlegt,16-24,,8.9
 2003,Óformlegt,16-24,Karl,8.6
 2004,Óformlegt,16-24,Karl,7.5
 2005,Óformlegt,16-24,Karl,10.2
@@ -143,6 +150,7 @@ Year,Tegund náms,Aldur,Kyn,Value
 2018,Óformlegt,16-24,Karl,7.3
 2019,Óformlegt,16-24,Karl,5.8
 2020,Óformlegt,16-24,Karl,6.0
+2021,Óformlegt,16-24,Karl,8.0
 2003,Óformlegt,16-24,Kona,9.6
 2004,Óformlegt,16-24,Kona,9.9
 2005,Óformlegt,16-24,Kona,10.4
@@ -161,6 +169,7 @@ Year,Tegund náms,Aldur,Kyn,Value
 2018,Óformlegt,16-24,Kona,7.3
 2019,Óformlegt,16-24,Kona,8.6
 2020,Óformlegt,16-24,Kona,5.9
+2021,Óformlegt,16-24,Kona,9.9
 2003,Óformlegt,25-64,,14.9
 2004,Óformlegt,25-64,,15.6
 2005,Óformlegt,25-64,,16.8
@@ -179,6 +188,7 @@ Year,Tegund náms,Aldur,Kyn,Value
 2018,Óformlegt,25-64,,12.4
 2019,Óformlegt,25-64,,12.6
 2020,Óformlegt,25-64,,9.9
+2021,Óformlegt,25-64,,14.3
 2003,Óformlegt,25-64,Karl,12.8
 2004,Óformlegt,25-64,Karl,13.5
 2005,Óformlegt,25-64,Karl,15.2
@@ -197,6 +207,7 @@ Year,Tegund náms,Aldur,Kyn,Value
 2018,Óformlegt,25-64,Karl,10.5
 2019,Óformlegt,25-64,Karl,10.6
 2020,Óformlegt,25-64,Karl,8.2
+2021,Óformlegt,25-64,Karl,11.9
 2003,Óformlegt,25-64,Kona,17.0
 2004,Óformlegt,25-64,Kona,17.9
 2005,Óformlegt,25-64,Kona,18.4
@@ -214,3 +225,4 @@ Year,Tegund náms,Aldur,Kyn,Value
 2018,Óformlegt,25-64,Kona,14.5
 2019,Óformlegt,25-64,Kona,14.8
 2020,Óformlegt,25-64,Kona,11.7
+2021,Óformlegt,25-64,Kona,16.9
