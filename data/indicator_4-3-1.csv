@@ -17,6 +17,7 @@ Year,Education Category,Age,Sex,Value
 2018,Formal,16-24,,56.5
 2019,Formal,16-24,,60.9
 2020,Formal,16-24,,62.9
+2021,Formal,16-24,,62.4
 2003,Formal,16-24,Male,56.5
 2004,Formal,16-24,Male,60.0
 2005,Formal,16-24,Male,58.2
@@ -35,6 +36,7 @@ Year,Education Category,Age,Sex,Value
 2018,Formal,16-24,Male,52.2
 2019,Formal,16-24,Male,55.4
 2020,Formal,16-24,Male,58.4
+2021,Formal,16-24,Male,58.0
 2003,Formal,16-24,Female,60.1
 2004,Formal,16-24,Female,62.0
 2005,Formal,16-24,Female,66.7
@@ -53,6 +55,7 @@ Year,Education Category,Age,Sex,Value
 2018,Formal,16-24,Female,61.2
 2019,Formal,16-24,Female,66.8
 2020,Formal,16-24,Female,67.8
+2021,Formal,16-24,Female,67.2
 2003,Formal,25-64,,8.7
 2004,Formal,25-64,,9.9
 2005,Formal,25-64,,10.0
@@ -71,6 +74,7 @@ Year,Education Category,Age,Sex,Value
 2018,Formal,25-64,,9.1
 2019,Formal,25-64,,9.3
 2020,Formal,25-64,,10.4
+2021,Formal,25-64,,10.3
 2003,Formal,25-64,Male,6.1
 2004,Formal,25-64,Male,7.2
 2005,Formal,25-64,Male,6.9
@@ -89,6 +93,7 @@ Year,Education Category,Age,Sex,Value
 2018,Formal,25-64,Male,7.4
 2019,Formal,25-64,Male,7.7
 2020,Formal,25-64,Male,8.3
+2021,Formal,25-64,Male,7.6
 2003,Formal,25-64,Female,11.4
 2004,Formal,25-64,Female,12.7
 2005,Formal,25-64,Female,13.2
@@ -107,6 +112,7 @@ Year,Education Category,Age,Sex,Value
 2018,Formal,25-64,Female,10.8
 2019,Formal,25-64,Female,10.9
 2020,Formal,25-64,Female,12.6
+2021,Formal,25-64,Female,13.2
 2003,Non-Formal,16-24,,9.1
 2004,Non-Formal,16-24,,8.6
 2005,Non-Formal,16-24,,10.3
@@ -125,6 +131,7 @@ Year,Education Category,Age,Sex,Value
 2018,Non-Formal,16-24,,7.3
 2019,Non-Formal,16-24,,7.2
 2020,Non-Formal,16-24,,6.0
+2021,Non-Formal,16-24,,8.9
 2003,Non-Formal,16-24,Male,8.6
 2004,Non-Formal,16-24,Male,7.5
 2005,Non-Formal,16-24,Male,10.2
@@ -143,6 +150,7 @@ Year,Education Category,Age,Sex,Value
 2018,Non-Formal,16-24,Male,7.3
 2019,Non-Formal,16-24,Male,5.8
 2020,Non-Formal,16-24,Male,6.0
+2021,Non-Formal,16-24,Male,8.0
 2003,Non-Formal,16-24,Female,9.6
 2004,Non-Formal,16-24,Female,9.9
 2005,Non-Formal,16-24,Female,10.4
@@ -161,6 +169,7 @@ Year,Education Category,Age,Sex,Value
 2018,Non-Formal,16-24,Female,7.3
 2019,Non-Formal,16-24,Female,8.6
 2020,Non-Formal,16-24,Female,5.9
+2021,Non-Formal,16-24,Female,9.9
 2003,Non-Formal,25-64,,14.9
 2004,Non-Formal,25-64,,15.6
 2005,Non-Formal,25-64,,16.8
@@ -179,6 +188,7 @@ Year,Education Category,Age,Sex,Value
 2018,Non-Formal,25-64,,12.4
 2019,Non-Formal,25-64,,12.6
 2020,Non-Formal,25-64,,9.9
+2021,Non-Formal,25-64,,14.3
 2003,Non-Formal,25-64,Male,12.8
 2004,Non-Formal,25-64,Male,13.5
 2005,Non-Formal,25-64,Male,15.2
@@ -197,6 +207,7 @@ Year,Education Category,Age,Sex,Value
 2018,Non-Formal,25-64,Male,10.5
 2019,Non-Formal,25-64,Male,10.6
 2020,Non-Formal,25-64,Male,8.2
+2021,Non-Formal,25-64,Male,11.9
 2003,Non-Formal,25-64,Female,17.0
 2004,Non-Formal,25-64,Female,17.9
 2005,Non-Formal,25-64,Female,18.4
@@ -214,3 +225,4 @@ Year,Education Category,Age,Sex,Value
 2018,Non-Formal,25-64,Female,14.5
 2019,Non-Formal,25-64,Female,14.8
 2020,Non-Formal,25-64,Female,11.7
+2021,Non-Formal,25-64,Female,16.9
