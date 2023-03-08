@@ -1,47 +1,52 @@
 Year,Organization,Value
 2000,World Trade Organization,0.71429
-2000,International Bank for Reconstruction and Development,0.54945
+2000,International Bank for Reconstruction and Development,0.0937
 2000,UN General Assembly,0.5291
-2000,International Monetary Fund,0.5618
-2000,International Finanace Corporation,0.57471
-2005,International Finanace Corporation,0.5618
-2005,International Monetary Fund,0.55249
-2005,International Bank for Reconstruction and Development,0.54348
-2005,UN Econonomic and Social Council,1.850
-2005,UN General Assembly,0.52356
+2000,International Monetary Fund,0.0666
+2000,International Finanace Corporation,0.0122
 2005,World Trade Organization,0.67114
-2010,International Monetary Fund,0.54945
-2010,International Finanace Corporation,0.54945
-2010,UN General Assembly,0.52083
+2005,International Bank for Reconstruction and Development,0.0932
+2005,UN General Assembly,0.52356
+2005,International Monetary Fund,0.0656
+2005,International Finanace Corporation,0.0121
+2005,UN Econonomic and Social Council,1.850
 2010,World Trade Organization,0.65359
-2010,International Bank for Reconstruction and Development,0.53476
-2015,International Bank for Reconstruction and Development,0.53191
-2015,International Finanace Corporation,0.54348
-2015,International Monetary Fund,0.53191
-2015,UN General Assembly,0.51813
+2010,International Bank for Reconstruction and Development,0.093
+2010,UN General Assembly,0.52083
+2010,International Monetary Fund,0.0644
+2010,International Finanace Corporation,0.0121
 2015,World Trade Organization,0.625
-2016,UN General Assembly,0.51813
-2016,International Bank for Reconstruction and Development,0.53191
-2016,International Finanace Corporation,0.54348
+2015,International Bank for Reconstruction and Development,0.0971
+2015,UN General Assembly,0.51813
+2015,International Monetary Fund,0.0759
+2015,International Finanace Corporation,0.03173
 2016,World Trade Organization,0.61728
-2016,International Monetary Fund,0.53191
-2017,International Bank for Reconstruction and Development,0.5291
-2017,World Trade Organization,0.60976
+2016,International Bank for Reconstruction and Development,0.1
+2016,UN General Assembly,0.51813
+2016,International Monetary Fund,0.0931
+2016,International Finanace Corporation,0.03173
+2017,World Trade Organization,0.6098
+2017,International Bank for Reconstruction and Development,0.1016
 2017,UN General Assembly,0.51813
-2017,International Finanace Corporation,0.54348
-2017,International Monetary Fund,0.5291
-2018,International Monetary Fund,0.5291
-2018,International Bank for Reconstruction and Development,0.5291
-2018,World Trade Organization,0.60976
+2017,International Monetary Fund,0.0931
+2017,International Finanace Corporation,0.0317
+2018,World Trade Organization,0.6098
+2018,International Bank for Reconstruction and Development,0.1016
 2018,UN General Assembly,0.51813
-2018,International Finanace Corporation,0.54348
-2019,International Monetary Fund,0.5291
-2019,International Bank for Reconstruction and Development,0.5291
+2018,International Monetary Fund,0.09307
+2018,International Finanace Corporation,0.0317
 2019,World Trade Organization,0.60976
+2019,International Bank for Reconstruction and Development,0.1003
 2019,UN General Assembly,0.51813
-2019,International Finanace Corporation,0.5435
-2020,International Monetary Fund,0.5291
-2020,International Bank for Reconstruction and Development,0.5291
+2019,International Monetary Fund,0.09307
+2019,International Finanace Corporation,0.0313
 2020,World Trade Organization,0.60976
+2020,International Bank for Reconstruction and Development,0.10057
 2020,UN General Assembly,0.51813
-2020,International Finanace Corporation,0.54348
+2020,International Monetary Fund,0.09304
+2020,International Finanace Corporation,0.03154
+2021,World Trade Organization,0.60976
+2021,International Bank for Reconstruction and Development,0.10019
+2021,UN General Assembly,0.51813
+2021,International Monetary Fund,0.0928
+2021,International Finanace Corporation,0.03664
