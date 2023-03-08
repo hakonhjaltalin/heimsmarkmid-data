@@ -1,46 +1,52 @@
 Year,Stofnun,Value
 2000,Alþjóðaviðskiptastofnunin (WTO),0.71429
-2000,Alþjóðabankinn (IBRD),0.54945
+2000,Alþjóðabankinn (IBRD),0.0937
 2000,Alsherjaþing Sameinuðu Þjóðanna (UNGA),0.5291
-2000,Alþjóðagjaldeyrissjóðurinn (IMF),0.5618
-2000,Alþjóða lánastofnunin (IFC),0.57471
-2005,Alþjóða lánastofnunin (IFC),0.5618
-2005,Alþjóðagjaldeyrissjóðurinn (IMF),0.55249
-2005,Alþjóðabankinn (IBRD),0.54348
-2005,Efnahags- og félagsmálaráð Sameinuðu Þjóðanna (UN ECOSOC),1.85
-2005,Alsherjaþing Sameinuðu Þjóðanna (UNGA),0.52356
+2000,Alþjóðagjaldeyrissjóðurinn (IMF),0.0666
+2000,Alþjóða lánastofnunin (IFC),0.0122
 2005,Alþjóðaviðskiptastofnunin (WTO),0.67114
-2010,Alþjóðagjaldeyrissjóðurinn (IMF),0.54945
-2010,Alþjóða lánastofnunin (IFC),0.54945
-2010,Alsherjaþing Sameinuðu Þjóðanna (UNGA),0.52083
+2005,Alþjóðabankinn (IBRD),0.0932
+2005,Alsherjaþing Sameinuðu Þjóðanna (UNGA),0.52356
+2005,Alþjóðagjaldeyrissjóðurinn (IMF),0.0656
+2005,Alþjóða lánastofnunin (IFC),0.0121
+2005,Efnahags- og félagsmálaráð Sameinuðu Þjóðanna (UN ECOSOC),1.85
 2010,Alþjóðaviðskiptastofnunin (WTO),0.65359
-2010,Alþjóðabankinn (IBRD),0.53476
-2015,Alþjóðabankinn (IBRD),0.53191
-2015,Alþjóða lánastofnunin (IFC),0.54348
-2015,Alþjóðagjaldeyrissjóðurinn (IMF),0.53191
-2015,Alsherjaþing Sameinuðu Þjóðanna (UNGA),0.51813
+2010,Alþjóðabankinn (IBRD),0.093
+2010,Alsherjaþing Sameinuðu Þjóðanna (UNGA),0.52083
+2010,Alþjóðagjaldeyrissjóðurinn (IMF),0.0644
+2010,Alþjóða lánastofnunin (IFC),0.0121
 2015,Alþjóðaviðskiptastofnunin (WTO),0.625
-2016,Alsherjaþing Sameinuðu Þjóðanna (UNGA),0.51813
-2016,Alþjóðabankinn (IBRD),0.53191
-2016,Alþjóða lánastofnunin (IFC),0.54348
+2015,Alþjóðabankinn (IBRD),0.0971
+2015,Alsherjaþing Sameinuðu Þjóðanna (UNGA),0.51813
+2015,Alþjóðagjaldeyrissjóðurinn (IMF),0.0759
+2015,Alþjóða lánastofnunin (IFC),0.03173
 2016,Alþjóðaviðskiptastofnunin (WTO),0.61728
-2016,Alþjóðagjaldeyrissjóðurinn (IMF),0.53191
-2017,Alþjóðabankinn (IBRD),0.5291
-2017,Alþjóðaviðskiptastofnunin (WTO),0.60976
+2016,Alþjóðabankinn (IBRD),0.1
+2016,Alsherjaþing Sameinuðu Þjóðanna (UNGA),0.51813
+2016,Alþjóðagjaldeyrissjóðurinn (IMF),0.0931
+2016,Alþjóða lánastofnunin (IFC),0.03173
+2017,Alþjóðaviðskiptastofnunin (WTO),0.6098
+2017,Alþjóðabankinn (IBRD),0.1016
 2017,Alsherjaþing Sameinuðu Þjóðanna (UNGA),0.51813
-2017,Alþjóða lánastofnunin (IFC),0.54348
-2018,Alþjóðagjaldeyrissjóðurinn (IMF),0.5291
-2018,Alþjóðabankinn (IBRD),0.5291
-2018,Alþjóðaviðskiptastofnunin (WTO),0.60976
+2017,Alþjóðagjaldeyrissjóðurinn (IMF),0.0931
+2017,Alþjóða lánastofnunin (IFC),0.0317
+2018,Alþjóðaviðskiptastofnunin (WTO),0.6098
+2018,Alþjóðabankinn (IBRD),0.1016
 2018,Alsherjaþing Sameinuðu Þjóðanna (UNGA),0.51813
-2018,Alþjóða lánastofnunin (IFC),0.54348
-2019,Alþjóðagjaldeyrissjóðurinn (IMF),0.5291
-2019,Alþjóðabankinn (IBRD),0.5291
+2018,Alþjóðagjaldeyrissjóðurinn (IMF),0.09307
+2018,Alþjóða lánastofnunin (IFC),0.0317
 2019,Alþjóðaviðskiptastofnunin (WTO),0.60976
+2019,Alþjóðabankinn (IBRD),0.1003
 2019,Alsherjaþing Sameinuðu Þjóðanna (UNGA),0.51813
-2019,Alþjóða lánastofnunin (IFC),0.5435
-2020,Alþjóðagjaldeyrissjóðurinn (IMF),0.5291
-2020,Alþjóðabankinn (IBRD),0.5291
+2019,Alþjóðagjaldeyrissjóðurinn (IMF),0.09307
+2019,Alþjóða lánastofnunin (IFC),0.0313
 2020,Alþjóðaviðskiptastofnunin (WTO),0.60976
+2020,Alþjóðabankinn (IBRD),0.10057
 2020,Alsherjaþing Sameinuðu Þjóðanna (UNGA),0.51813
-2020,Alþjóða lánastofnunin (IFC),0.54348
+2020,Alþjóðagjaldeyrissjóðurinn (IMF),0.09304
+2020,Alþjóða lánastofnunin (IFC),0.03154
+2021,Alþjóðaviðskiptastofnunin (WTO),0.60976
+2021,Alþjóðabankinn (IBRD),0.10019
+2021,Alsherjaþing Sameinuðu Þjóðanna (UNGA),0.51813
+2021,Alþjóðagjaldeyrissjóðurinn (IMF),0.0928
+2021,Alþjóða lánastofnunin (IFC),0.03664
