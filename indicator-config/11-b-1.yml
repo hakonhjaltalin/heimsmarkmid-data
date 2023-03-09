@@ -22,7 +22,11 @@ graph_titles: []
 graph_type: line
 indicator_name: global_indicators.11-b-1-title
 indicator_number: '11.b.1'
-indicator_tabs: 'hide'
+indicator_tabs:
+  tab_1: 'hide'
+  tab_2: 'hide'
+  tab_3: 'hide'
+  tab_4: 'hide'
 national_geographical_coverage: ''
 page_content: ''
 permalink: ''
